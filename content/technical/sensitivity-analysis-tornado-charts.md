@@ -5,7 +5,7 @@ primary_keyword: "sensitivity analysis"
 secondary_keywords: ["tornado chart", "data table", "WACC sensitivity", "terminal value sensitivity", "scenario analysis"]
 category: "technical"
 date: "2026-05-19"
-author: "Sanjay Gupta"
+author: "Sterling Prentice"
 internal_links: ["/technical/dcf-valuation-step-by-step/", "/technical/lbo-modeling-how-sponsors-think/", "/technical/football-field-charts/"]
 ---
 

@@ -5,7 +5,7 @@ primary_keyword: "investment banking resume"
 secondary_keywords: ["IB resume", "banking resume format", "resume template", "GPA on resume"]
 category: "job-search"
 date: "2026-05-28"
-author: "Sanjay Gupta"
+author: "Sterling Prentice"
 internal_links: ["/job-search/cover-letters-not-chatgpt/", "/job-search/linkedin-optimization-ib/", "/interview-prep/investment-banking-interview-questions/"]
 ---
 

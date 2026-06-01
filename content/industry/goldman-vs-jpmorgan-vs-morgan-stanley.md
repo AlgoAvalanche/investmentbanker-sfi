@@ -5,7 +5,7 @@ primary_keyword: "Goldman Sachs vs JPMorgan"
 secondary_keywords: ["bank culture", "bulge bracket comparison", "GS culture", "JPM culture", "MS culture"]
 category: "industry"
 date: "2026-05-28"
-author: "Sanjay Gupta"
+author: "Sterling Prentice"
 internal_links: ["/industry/bulge-bracket-vs-elite-boutique/", "/industry/compensation-across-levels/", "/recruiting-insider/group-politics-read-the-room/"]
 ---
 

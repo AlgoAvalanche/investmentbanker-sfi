@@ -5,7 +5,7 @@ primary_keyword: "DCF valuation"
 secondary_keywords: ["3-statement model", "discounted cash flow", "WACC", "terminal value", "investment banking modeling"]
 category: "technical"
 date: "2026-05-28"
-author: "Sanjay Gupta"
+author: "Sterling Prentice"
 internal_links: ["/technical/lbo-modeling-how-sponsors-think/", "/technical/comparable-companies-analysis/", "/interview-prep/walk-me-through-dcf/"]
 ---
 

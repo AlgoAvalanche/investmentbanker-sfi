@@ -5,7 +5,7 @@ primary_keyword: "LinkedIn optimization"
 secondary_keywords: ["LinkedIn profile", "banking LinkedIn", "recruiter search", "professional network"]
 category: "job-search"
 date: "2026-05-23"
-author: "Sanjay Gupta"
+author: "Sterling Prentice"
 internal_links: ["/job-search/investment-banking-resume/", "/job-search/how-to-network-non-target/", "/job-search/100-cups-of-coffee-strategy/"]
 ---
 

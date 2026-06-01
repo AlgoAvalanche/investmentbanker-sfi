@@ -5,7 +5,7 @@ primary_keyword: "why analysts quit"
 secondary_keywords: ["analyst attrition", "banking turnover", "quitting banking", "retention problem"]
 category: "recruiting-insider"
 date: "2026-05-26"
-author: "Sanjay Gupta"
+author: "Sterling Prentice"
 internal_links: ["/recruiting-insider/honest-truth-ib-lifestyle/", "/recruiting-insider/exit-opps-reality-check/", "/recruiting-insider/when-to-stay-past-two-years/"]
 ---
 

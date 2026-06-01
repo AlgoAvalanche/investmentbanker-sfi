@@ -5,7 +5,7 @@ primary_keyword: "MD track"
 secondary_keywords: ["managing director", "banking career path", "promotion timeline", "partner track"]
 category: "recruiting-insider"
 date: "2026-05-23"
-author: "Sanjay Gupta"
+author: "Sterling Prentice"
 internal_links: ["/industry/compensation-across-levels/", "/recruiting-insider/when-to-stay-past-two-years/", "/recruiting-insider/group-politics-read-the-room/"]
 ---
 

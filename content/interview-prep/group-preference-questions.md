@@ -5,7 +5,7 @@ primary_keyword: "group preference questions"
 secondary_keywords: ["industry group", "product group", "coverage group", "TMT", "M&A group", "healthcare banking"]
 category: "interview-prep"
 date: "2026-05-22"
-author: "Sanjay Gupta"
+author: "Sterling Prentice"
 internal_links: ["/interview-prep/investment-banking-interview-questions/", "/industry/industry-group-vs-product-group/", "/interview-prep/why-investment-banking/"]
 ---
 

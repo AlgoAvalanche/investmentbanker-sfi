@@ -5,7 +5,7 @@ primary_keyword: "trapped cash"
 secondary_keywords: ["repatriation", "tax reform", "international cash", "DCF adjustments", "foreign earnings"]
 category: "technical"
 date: "2026-05-22"
-author: "Sanjay Gupta"
+author: "Sterling Prentice"
 internal_links: ["/technical/dcf-valuation-step-by-step/", "/technical/sum-of-the-parts-valuation/", "/technical/sensitivity-analysis-tornado-charts/"]
 ---
 

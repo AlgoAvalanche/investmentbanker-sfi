@@ -5,7 +5,7 @@ primary_keyword: "why investment banking"
 secondary_keywords: ["IB interview answer", "motivation question", "career in banking", "investment banking career"]
 category: "interview-prep"
 date: "2026-05-26"
-author: "Sanjay Gupta"
+author: "Sterling Prentice"
 internal_links: ["/interview-prep/investment-banking-interview-questions/", "/interview-prep/behavioral-questions-star-framework/", "/industry/bulge-bracket-vs-elite-boutique/"]
 ---
 

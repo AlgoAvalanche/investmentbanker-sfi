@@ -5,7 +5,7 @@ primary_keyword: "diversity interview programs"
 secondary_keywords: ["diversity recruiting", "SEO program", "INROADS", "diversity in banking", "inclusion programs"]
 category: "interview-prep"
 date: "2026-05-17"
-author: "Sanjay Gupta"
+author: "Sterling Prentice"
 internal_links: ["/interview-prep/investment-banking-interview-questions/", "/job-search/spring-weeks-sophomore-internships/", "/interview-prep/superday-what-to-expect/"]
 ---
 

@@ -5,7 +5,7 @@ primary_keyword: "group politics"
 secondary_keywords: ["office politics", "analyst politics", "banking team dynamics", "internal politics"]
 category: "recruiting-insider"
 date: "2026-05-22"
-author: "Sanjay Gupta"
+author: "Sterling Prentice"
 internal_links: ["/recruiting-insider/top-10-mistakes-analysts/", "/recruiting-insider/first-90-days-ib-analyst/", "/recruiting-insider/md-track-what-changed/"]
 ---
 

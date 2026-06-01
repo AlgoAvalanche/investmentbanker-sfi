@@ -5,7 +5,7 @@ primary_keyword: "analyst mistakes"
 secondary_keywords: ["first year analyst", "common mistakes", "banking tips", "analyst survival"]
 category: "recruiting-insider"
 date: "2026-05-24"
-author: "Sanjay Gupta"
+author: "Sterling Prentice"
 internal_links: ["/recruiting-insider/first-90-days-ib-analyst/", "/recruiting-insider/group-politics-read-the-room/", "/recruiting-insider/honest-truth-ib-lifestyle/"]
 ---
 

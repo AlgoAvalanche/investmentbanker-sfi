@@ -5,7 +5,7 @@ primary_keyword: "lateral move banking"
 secondary_keywords: ["Big 4 to banking", "consulting to IB", "corporate banking lateral", "career switch"]
 category: "job-search"
 date: "2026-05-21"
-author: "Sanjay Gupta"
+author: "Sterling Prentice"
 internal_links: ["/interview-prep/lateral-move-interviews/", "/recruiting-insider/exit-opps-reality-check/", "/job-search/investment-banking-resume/"]
 ---
 

@@ -5,7 +5,7 @@ primary_keyword: "superday"
 secondary_keywords: ["super day interview", "final round", "investment banking superday", "on-site interview"]
 category: "interview-prep"
 date: "2026-05-20"
-author: "Sanjay Gupta"
+author: "Sterling Prentice"
 internal_links: ["/interview-prep/investment-banking-interview-questions/", "/interview-prep/behavioral-questions-star-framework/", "/interview-prep/closing-questions-to-ask/"]
 ---
 

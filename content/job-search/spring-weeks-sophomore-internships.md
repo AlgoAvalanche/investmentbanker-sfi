@@ -5,7 +5,7 @@ primary_keyword: "spring weeks"
 secondary_keywords: ["sophomore internship, early recruiting", "insight program", "freshman banking"]
 category: "job-search"
 date: "2026-05-22"
-author: "Sanjay Gupta"
+author: "Sterling Prentice"
 internal_links: ["/job-search/ocr-strategy-bidding-lists/", "/interview-prep/diversity-interview-programs/", "/job-search/investment-banking-resume/"]
 ---
 

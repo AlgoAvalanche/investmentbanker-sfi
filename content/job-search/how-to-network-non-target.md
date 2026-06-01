@@ -5,7 +5,7 @@ primary_keyword: "non-target networking"
 secondary_keywords: ["non-target school", "cold email", "networking strategy", "breaking into banking"]
 category: "job-search"
 date: "2026-05-26"
-author: "Sanjay Gupta"
+author: "Sterling Prentice"
 internal_links: ["/job-search/100-cups-of-coffee-strategy/", "/interview-prep/networking-calls-that-convert/", "/job-search/investment-banking-resume/"]
 ---
 

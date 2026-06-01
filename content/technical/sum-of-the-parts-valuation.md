@@ -5,7 +5,7 @@ primary_keyword: "sum-of-the-parts valuation"
 secondary_keywords: ["SOTP", "conglomerate discount", "breakup analysis", "segment valuation", "holding company"]
 category: "technical"
 date: "2026-05-21"
-author: "Sanjay Gupta"
+author: "Sterling Prentice"
 internal_links: ["/technical/comparable-companies-analysis/", "/technical/dcf-valuation-step-by-step/", "/technical/football-field-charts/"]
 ---
 

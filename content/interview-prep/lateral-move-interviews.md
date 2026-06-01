@@ -5,7 +5,7 @@ primary_keyword: "lateral move interviews"
 secondary_keywords: ["lateral hiring", "experienced hire", "associate interview", "VP interview", "banking lateral"]
 category: "interview-prep"
 date: "2026-05-18"
-author: "Sanjay Gupta"
+author: "Sterling Prentice"
 internal_links: ["/job-search/lateral-big4-consulting/", "/interview-prep/investment-banking-interview-questions/", "/recruiting-insider/exit-opps-reality-check/"]
 ---
 

@@ -5,7 +5,7 @@ primary_keyword: "capital markets"
 secondary_keywords: ["ECM", "DCM", "leveraged finance", "equity offerings", "debt capital markets", "IPO"]
 category: "industry"
 date: "2026-05-21"
-author: "Sanjay Gupta"
+author: "Sterling Prentice"
 internal_links: ["/industry/industry-group-vs-product-group/", "/industry/compensation-across-levels/", "/technical/lbo-modeling-how-sponsors-think/"]
 ---
 

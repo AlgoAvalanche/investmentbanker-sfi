@@ -5,7 +5,7 @@ primary_keyword: "behavioral questions"
 secondary_keywords: ["STAR framework", "leadership questions", "teamwork interview", "banking behavioral"]
 category: "interview-prep"
 date: "2026-05-24"
-author: "Sanjay Gupta"
+author: "Sterling Prentice"
 internal_links: ["/interview-prep/investment-banking-interview-questions/", "/interview-prep/why-investment-banking/", "/interview-prep/superday-what-to-expect/"]
 ---
 

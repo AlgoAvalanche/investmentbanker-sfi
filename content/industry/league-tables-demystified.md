@@ -5,7 +5,7 @@ primary_keyword: "league tables"
 secondary_keywords: ["deal rankings", "Dealogic", "Bloomberg league tables", "M&A rankings", "bank rankings"]
 category: "industry"
 date: "2026-05-26"
-author: "Sanjay Gupta"
+author: "Sterling Prentice"
 internal_links: ["/industry/goldman-vs-jpmorgan-vs-morgan-stanley/", "/technical/ma-process-walkthrough-pitch-to-closing/", "/industry/bulge-bracket-vs-elite-boutique/"]
 ---
 

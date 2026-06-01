@@ -5,7 +5,7 @@ primary_keyword: "bulge bracket vs elite boutique"
 secondary_keywords: ["middle market banking", "Evercore", "Centerview", "Houlihan Lokey", "bank comparison"]
 category: "industry"
 date: "2026-05-27"
-author: "Sanjay Gupta"
+author: "Sterling Prentice"
 internal_links: ["/industry/goldman-vs-jpmorgan-vs-morgan-stanley/", "/industry/compensation-across-levels/", "/recruiting-insider/exit-opps-reality-check/"]
 ---
 

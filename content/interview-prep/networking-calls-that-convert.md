@@ -5,7 +5,7 @@ primary_keyword: "networking calls"
 secondary_keywords: ["informational interviews", "IB networking", "coffee chat", "banker outreach", "recruiting calls"]
 category: "interview-prep"
 date: "2026-05-21"
-author: "Sanjay Gupta"
+author: "Sterling Prentice"
 internal_links: ["/job-search/how-to-network-non-target/", "/job-search/100-cups-of-coffee-strategy/", "/interview-prep/superday-what-to-expect/"]
 ---
 

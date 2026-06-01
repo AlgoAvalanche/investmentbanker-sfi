@@ -10,7 +10,7 @@ const articles = defineCollection({
     secondary_keywords: z.array(z.string()).optional(),
     category: z.enum(['technical', 'interview-prep', 'job-search', 'industry', 'recruiting-insider']),
     date: z.string(),
-    author: z.string().default('Sanjay Gupta'),
+    author: z.string().default('Sterling Prentice'),
     internal_links: z.array(z.string()).optional(),
   }),
 });

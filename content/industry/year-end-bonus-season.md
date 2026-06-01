@@ -5,7 +5,7 @@ primary_keyword: "year-end bonus"
 secondary_keywords: ["banking bonus", "bonus pool", "compensation cycle", "stub bonus", "guaranteed bonus"]
 category: "industry"
 date: "2026-05-25"
-author: "Sanjay Gupta"
+author: "Sterling Prentice"
 internal_links: ["/industry/compensation-across-levels/", "/industry/goldman-vs-jpmorgan-vs-morgan-stanley/", "/recruiting-insider/honest-truth-ib-lifestyle/"]
 ---
 

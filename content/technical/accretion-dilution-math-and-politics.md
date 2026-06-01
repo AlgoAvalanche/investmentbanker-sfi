@@ -5,7 +5,7 @@ primary_keyword: "accretion dilution"
 secondary_keywords: ["EPS accretion", "merger math", "stock-for-stock acquisition", "purchase price allocation"]
 category: "technical"
 date: "2026-05-24"
-author: "Sanjay Gupta"
+author: "Sterling Prentice"
 internal_links: ["/technical/ma-process-walkthrough-pitch-to-closing/", "/technical/comparable-companies-analysis/", "/interview-prep/investment-banking-interview-questions/"]
 ---
 

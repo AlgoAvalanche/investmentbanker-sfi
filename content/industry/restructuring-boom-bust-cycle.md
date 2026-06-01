@@ -5,7 +5,7 @@ primary_keyword: "restructuring banking"
 secondary_keywords: ["distressed M&A", "bankruptcy advisory", "RX banking", "Houlihan Lokey", "PJT Partners"]
 category: "industry"
 date: "2026-05-22"
-author: "Sanjay Gupta"
+author: "Sterling Prentice"
 internal_links: ["/industry/bulge-bracket-vs-elite-boutique/", "/technical/dcf-valuation-step-by-step/", "/recruiting-insider/exit-opps-reality-check/"]
 ---
 

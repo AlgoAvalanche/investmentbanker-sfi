@@ -5,7 +5,7 @@ primary_keyword: "industry group vs product group"
 secondary_keywords: ["coverage group", "M&A group", "TMT", "healthcare", "FIG", "leveraged finance"]
 category: "industry"
 date: "2026-05-23"
-author: "Sanjay Gupta"
+author: "Sterling Prentice"
 internal_links: ["/interview-prep/group-preference-questions/", "/industry/bulge-bracket-vs-elite-boutique/", "/recruiting-insider/group-politics-read-the-room/"]
 ---
 

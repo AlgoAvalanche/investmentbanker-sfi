@@ -5,7 +5,7 @@ primary_keyword: "cover letters"
 secondary_keywords: ["investment banking cover letter", "application letter", "banking application"]
 category: "job-search"
 date: "2026-05-27"
-author: "Sanjay Gupta"
+author: "Sterling Prentice"
 internal_links: ["/job-search/investment-banking-resume/", "/job-search/how-to-network-non-target/", "/interview-prep/why-investment-banking/"]
 ---
 

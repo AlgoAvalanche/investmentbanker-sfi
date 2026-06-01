@@ -5,7 +5,7 @@ primary_keyword: "working capital adjustments"
 secondary_keywords: ["net working capital", "NWC target", "peg", "completion accounts", "locked box"]
 category: "technical"
 date: "2026-05-23"
-author: "Sanjay Gupta"
+author: "Sterling Prentice"
 internal_links: ["/technical/ma-process-walkthrough-pitch-to-closing/", "/technical/dcf-valuation-step-by-step/", "/technical/accretion-dilution-math-and-politics/"]
 ---
 

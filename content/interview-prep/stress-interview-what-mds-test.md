@@ -5,7 +5,7 @@ primary_keyword: "stress interview"
 secondary_keywords: ["pressure interview", "MD interview", "investment banking stress", "interview tactics"]
 category: "interview-prep"
 date: "2026-05-23"
-author: "Sanjay Gupta"
+author: "Sterling Prentice"
 internal_links: ["/interview-prep/investment-banking-interview-questions/", "/interview-prep/superday-what-to-expect/", "/recruiting-insider/group-politics-read-the-room/"]
 ---
 

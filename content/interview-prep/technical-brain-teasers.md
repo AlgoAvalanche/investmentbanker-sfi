@@ -5,7 +5,7 @@ primary_keyword: "technical brain teasers"
 secondary_keywords: ["IB brain teasers", "market sizing", "logic puzzles", "quant interview", "mental math"]
 category: "interview-prep"
 date: "2026-05-25"
-author: "Sanjay Gupta"
+author: "Sterling Prentice"
 internal_links: ["/interview-prep/investment-banking-interview-questions/", "/interview-prep/stress-interview-what-mds-test/", "/interview-prep/superday-what-to-expect/"]
 ---
 

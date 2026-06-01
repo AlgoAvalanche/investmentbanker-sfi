@@ -5,7 +5,7 @@ primary_keyword: "investment banking compensation"
 secondary_keywords: ["analyst salary", "associate salary", "VP salary", "MD compensation", "banking pay"]
 category: "industry"
 date: "2026-05-24"
-author: "Sanjay Gupta"
+author: "Sterling Prentice"
 internal_links: ["/industry/year-end-bonus-season/", "/industry/bulge-bracket-vs-elite-boutique/", "/recruiting-insider/md-track-what-changed/"]
 ---
 

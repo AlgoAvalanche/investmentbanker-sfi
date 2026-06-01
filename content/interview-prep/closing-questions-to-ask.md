@@ -5,7 +5,7 @@ primary_keyword: "closing questions"
 secondary_keywords: ["questions to ask interviewer", "end of interview", "IB interview tips", "final impression"]
 category: "interview-prep"
 date: "2026-05-19"
-author: "Sanjay Gupta"
+author: "Sterling Prentice"
 internal_links: ["/interview-prep/superday-what-to-expect/", "/interview-prep/investment-banking-interview-questions/", "/interview-prep/networking-calls-that-convert/"]
 ---
 

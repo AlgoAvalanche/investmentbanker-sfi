@@ -5,7 +5,7 @@ primary_keyword: "LBO modeling"
 secondary_keywords: ["leveraged buyout", "PE returns", "IRR", "money multiple", "debt schedule"]
 category: "technical"
 date: "2026-05-28"
-author: "Sanjay Gupta"
+author: "Sterling Prentice"
 internal_links: ["/technical/dcf-valuation-step-by-step/", "/technical/sensitivity-analysis-tornado-charts/", "/interview-prep/walk-me-through-dcf/"]
 ---
 

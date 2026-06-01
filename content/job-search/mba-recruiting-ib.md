@@ -5,7 +5,7 @@ primary_keyword: "MBA recruiting"
 secondary_keywords: ["MBA investment banking", "associate recruiting", "business school", "MBA pipeline"]
 category: "job-search"
 date: "2026-05-20"
-author: "Sanjay Gupta"
+author: "Sterling Prentice"
 internal_links: ["/job-search/investment-banking-resume/", "/interview-prep/investment-banking-interview-questions/", "/industry/compensation-across-levels/"]
 ---
 

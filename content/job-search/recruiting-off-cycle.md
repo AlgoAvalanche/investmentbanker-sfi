@@ -5,7 +5,7 @@ primary_keyword: "off-cycle recruiting"
 secondary_keywords: ["off-cycle application", "boutique hiring", "year-round recruiting", "direct application"]
 category: "job-search"
 date: "2026-05-19"
-author: "Sanjay Gupta"
+author: "Sterling Prentice"
 internal_links: ["/job-search/how-to-network-non-target/", "/job-search/100-cups-of-coffee-strategy/", "/interview-prep/lateral-move-interviews/"]
 ---
 

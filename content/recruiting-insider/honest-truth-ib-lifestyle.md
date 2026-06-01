@@ -5,7 +5,7 @@ primary_keyword: "investment banking lifestyle"
 secondary_keywords: ["banking hours", "work-life balance", "analyst burnout", "IB lifestyle", "banking culture"]
 category: "recruiting-insider"
 date: "2026-05-27"
-author: "Sanjay Gupta"
+author: "Sterling Prentice"
 internal_links: ["/recruiting-insider/why-analysts-quit/", "/industry/compensation-across-levels/", "/recruiting-insider/exit-opps-reality-check/"]
 ---
 

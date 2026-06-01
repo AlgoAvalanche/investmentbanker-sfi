@@ -5,7 +5,7 @@ primary_keyword: "exit opportunities"
 secondary_keywords: ["PE recruiting", "hedge fund", "corporate development", "post-banking career", "buyside"]
 category: "recruiting-insider"
 date: "2026-05-25"
-author: "Sanjay Gupta"
+author: "Sterling Prentice"
 internal_links: ["/recruiting-insider/why-analysts-quit/", "/recruiting-insider/honest-truth-ib-lifestyle/", "/technical/lbo-modeling-how-sponsors-think/"]
 ---
 

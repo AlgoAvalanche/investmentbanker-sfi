@@ -5,7 +5,7 @@ primary_keyword: "OCR strategy"
 secondary_keywords: ["on-campus recruiting", "bidding", "drop days", "recruiting timeline", "target school"]
 category: "job-search"
 date: "2026-05-25"
-author: "Sanjay Gupta"
+author: "Sterling Prentice"
 internal_links: ["/job-search/investment-banking-resume/", "/interview-prep/superday-what-to-expect/", "/job-search/spring-weeks-sophomore-internships/"]
 ---
 

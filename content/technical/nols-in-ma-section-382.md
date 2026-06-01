@@ -5,7 +5,7 @@ primary_keyword: "NOLs in M&A"
 secondary_keywords: ["Section 382", "net operating losses", "ownership change", "tax attributes", "acquisition tax"]
 category: "technical"
 date: "2026-05-18"
-author: "Sanjay Gupta"
+author: "Sterling Prentice"
 internal_links: ["/technical/ma-process-walkthrough-pitch-to-closing/", "/technical/accretion-dilution-math-and-politics/", "/technical/dcf-valuation-step-by-step/"]
 ---
 

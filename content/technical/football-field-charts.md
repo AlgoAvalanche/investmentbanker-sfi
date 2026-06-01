@@ -5,7 +5,7 @@ primary_keyword: "football field chart"
 secondary_keywords: ["valuation range", "valuation summary", "investment banking pitch book", "implied share price"]
 category: "technical"
 date: "2026-05-20"
-author: "Sanjay Gupta"
+author: "Sterling Prentice"
 internal_links: ["/technical/dcf-valuation-step-by-step/", "/technical/comparable-companies-analysis/", "/technical/precedent-transactions/"]
 ---
 

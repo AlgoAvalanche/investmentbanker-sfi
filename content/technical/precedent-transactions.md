@@ -5,7 +5,7 @@ primary_keyword: "precedent transactions"
 secondary_keywords: ["transaction comps", "M&A premiums", "deal multiples", "comparable acquisitions"]
 category: "technical"
 date: "2026-05-25"
-author: "Sanjay Gupta"
+author: "Sterling Prentice"
 internal_links: ["/technical/comparable-companies-analysis/", "/technical/dcf-valuation-step-by-step/", "/technical/accretion-dilution-math-and-politics/"]
 ---
 

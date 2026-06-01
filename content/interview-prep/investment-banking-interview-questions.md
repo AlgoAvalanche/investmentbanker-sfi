@@ -5,7 +5,7 @@ primary_keyword: "investment banking interview questions"
 secondary_keywords: ["bulge bracket interview", "technical questions", "behavioral questions", "IB interview prep"]
 category: "interview-prep"
 date: "2026-05-28"
-author: "Sanjay Gupta"
+author: "Sterling Prentice"
 internal_links: ["/interview-prep/walk-me-through-dcf/", "/interview-prep/why-investment-banking/", "/technical/dcf-valuation-step-by-step/", "/interview-prep/behavioral-questions-star-framework/"]
 ---
 

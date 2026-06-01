@@ -5,7 +5,7 @@ primary_keyword: "first 90 days analyst"
 secondary_keywords: ["new analyst", "analyst training", "analyst start date", "banking onboarding"]
 category: "recruiting-insider"
 date: "2026-05-28"
-author: "Sanjay Gupta"
+author: "Sterling Prentice"
 internal_links: ["/recruiting-insider/honest-truth-ib-lifestyle/", "/recruiting-insider/top-10-mistakes-analysts/", "/recruiting-insider/group-politics-read-the-room/"]
 ---
 

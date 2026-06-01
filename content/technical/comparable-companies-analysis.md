@@ -5,7 +5,7 @@ primary_keyword: "comparable companies analysis"
 secondary_keywords: ["trading comps", "valuation multiples", "EV/EBITDA", "peer selection", "equity research"]
 category: "technical"
 date: "2026-05-26"
-author: "Sanjay Gupta"
+author: "Sterling Prentice"
 internal_links: ["/technical/dcf-valuation-step-by-step/", "/technical/precedent-transactions/", "/technical/football-field-charts/"]
 ---
 

@@ -5,7 +5,7 @@ primary_keyword: "stay in banking"
 secondary_keywords: ["third year analyst", "career decision", "banking long-term", "associate promote"]
 category: "recruiting-insider"
 date: "2026-05-21"
-author: "Sanjay Gupta"
+author: "Sterling Prentice"
 internal_links: ["/recruiting-insider/exit-opps-reality-check/", "/recruiting-insider/md-track-what-changed/", "/industry/compensation-across-levels/"]
 ---
 

@@ -5,7 +5,7 @@ primary_keyword: "walk me through a DCF"
 secondary_keywords: ["DCF interview question", "discounted cash flow interview", "technical interview", "WACC", "terminal value"]
 category: "interview-prep"
 date: "2026-05-27"
-author: "Sanjay Gupta"
+author: "Sterling Prentice"
 internal_links: ["/technical/dcf-valuation-step-by-step/", "/interview-prep/investment-banking-interview-questions/", "/technical/sensitivity-analysis-tornado-charts/"]
 ---
 

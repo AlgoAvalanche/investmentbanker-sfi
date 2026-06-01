@@ -5,7 +5,7 @@ primary_keyword: "M&A process"
 secondary_keywords: ["mergers and acquisitions", "sell-side process", "buy-side advisory", "deal timeline", "investment banking deal"]
 category: "technical"
 date: "2026-05-27"
-author: "Sanjay Gupta"
+author: "Sterling Prentice"
 internal_links: ["/technical/dcf-valuation-step-by-step/", "/technical/comparable-companies-analysis/", "/technical/working-capital-adjustments-ma/"]
 ---
 

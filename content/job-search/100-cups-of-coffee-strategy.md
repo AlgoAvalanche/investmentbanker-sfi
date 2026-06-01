@@ -5,7 +5,7 @@ primary_keyword: "coffee chat strategy"
 secondary_keywords: ["informational interview", "networking meetings", "banker coffee", "relationship building"]
 category: "job-search"
 date: "2026-05-24"
-author: "Sanjay Gupta"
+author: "Sterling Prentice"
 internal_links: ["/job-search/how-to-network-non-target/", "/interview-prep/networking-calls-that-convert/", "/job-search/linkedin-optimization-ib/"]
 ---
 
