@@ -11,141 +11,167 @@ internal_links: ["/job-search/ocr-strategy-bidding-lists/", "/interview-prep/div
 
 # Spring Weeks and Sophomore Internships: The Real Pipeline
 
-The investment banking recruiting process has developed a pre-pipeline over the last fifteen years that most candidates outside of target schools either do not know about or dismiss as irrelevant to their situation. This is a mistake. Spring weeks and sophomore internship programs have become the dominant feeder mechanism into junior summer analyst programs at most major banks, and understanding this pipeline - even if you are not yet a freshman - changes how you should think about your entire undergraduate strategy.
+The investment banking recruiting process has grown a pre-pipeline over the last fifteen years that most candidates outside of target schools either do not know about or dismiss as irrelevant to their situation. Both reactions are mistakes. Spring weeks and sophomore internship programs have become the dominant feeder mechanism into junior summer analyst programs at most major banks, and understanding this pipeline - even if you are not yet a freshman - changes how you should think about your entire undergraduate strategy.
 
-The short version: if you are at a target or semi-target school and you want a junior summer analyst offer from a bulge bracket, the path now runs through spring week or a sophomore-year internship. The days of showing up in junior year with no prior banking experience and getting a summer analyst offer through OCR alone are largely over at the most competitive firms.
-
----
-
-## What Spring Weeks Actually Are
-
-Spring weeks - the term is more commonly used in the UK and Europe, where the programs were pioneered - are short-form structured programs, typically one to two weeks in length, that take place in the spring semester of a student's sophomore or junior year. In the US context, these are often called "insight programs," "early insight" programs, "freshman/sophomore banker days," or simply first-year and second-year experience programs.
-
-The programs vary by firm in structure and emphasis:
-
-- **Goldman Sachs Freshman Diversity**: One-day orientation event for first-year students from underrepresented backgrounds, explicitly designed to start the firm relationship early.
-- **J.P. Morgan Winning Women and Sophomore Edge**: Structured program that typically fast-tracks participants into consideration for sophomore summer analyst programs.
-- **Bank of America Freshman Explore**: Similar model - one to two day experience designed to create an early relationship.
-- **Evercore and boutique equivalents**: Some elite boutiques run their own versions, often more selective and often directly connected to sophomore intern pipelines.
-
-What they have in common: they are explicitly designed as early talent identification mechanisms. The bank is not running these programs out of altruism. They are building a pipeline of candidates they can convert to summer analysts before OCR even opens.
+The short version: if you are at a target or semi-target school and you want a junior summer analyst offer from a bulge bracket, the path now runs through a spring week, an insight program, or a sophomore summer internship. The days of showing up in junior year with no prior banking contact and getting a summer analyst offer through on-campus recruiting alone are largely over at the most competitive firms.
 
 ---
 
-## Why the Early Pipeline Matters More Than Most Candidates Realize
+## Spring Weeks: A UK Concept With No US Equivalent
 
-The economics of banking recruiting have shifted significantly. At the bulge brackets, there is an increasing preference for known quantities over cold applications. A sophomore who attended a spring week program, made a strong impression, and is known to the campus recruiting team has a dramatically higher conversion rate to a junior summer analyst offer than a junior applicant who is entering the process cold.
+Before anything else, a geography lesson that most generic articles skip entirely: spring weeks are a UK and European phenomenon. They do not exist in the United States, Canada, or Latin America. If you are a US student reading about "spring weeks" and wondering where to apply, the answer is that you cannot - those specific programs are only open to students enrolled at UK universities.
 
-Some specific dynamics:
+In the UK, a spring week is a one to two week structured program offered primarily to first and second-year university students. Every major bulge bracket bank runs one - Goldman Sachs, Morgan Stanley, JPMorgan, Bank of America, Citi - alongside elite boutiques including Lazard, Evercore, and PJT, middle-market firms like Jefferies and Houlihan Lokey, and international banks such as RBC and Wells Fargo. Deutsche Bank runs its own program called Spring Into Banking, which involves an online application, situational judgement test, inductive reasoning assessments, a recorded video interview, and a telephone interview - a process representative of what most banks require.[^1]
 
-**Pre-positioning for junior summer applications**: Many firms have informal or semi-formal pipelines where spring week participants are flagged as priority candidates for the following summer's analyst class. This does not guarantee an offer, but it means your application gets read by someone who has already met you and formed a positive impression.
+During the week itself, participants shadow bankers, attend training workshops, practice analytical skills on non-client company exercises, and network extensively with staff across divisions. Live deal work is off the table due to confidentiality restrictions. The primary outputs from the student's side are relationship quality and observable soft skills, not technical deliverables.
 
-**OCR context**: When a student from a spring week program submits an OCR bid in junior year, their file often includes a note from the campus team about prior engagement. In a highly competitive bidding environment, this is a real edge.
+Acceptance rates run below 5% per application, which means students need to apply broadly - across ten to twenty programs - to generate meaningful odds. Applications open in August to October for programs that run the following March and April. This is a first-come, first-served process at most banks. Applying in November for a program that opened in August produces rejection regardless of qualifications.[^2]
 
-**The boutique dynamic is different**: Boutiques that run early programs - Evercore's campus outreach, Centerview's early engagement - often convert a significant percentage of their early participants directly. The numbers are small because the programs are small, but the conversion rates are high.
-
-Mergers & Inquisitions has tracked this trend and noted that at several major banks, an increasing proportion of junior summer analysts have some form of prior firm engagement - a spring program, a freshman event, a sophomore internship - rather than entering through OCR as a cold applicant.
+Target universities for UK spring weeks are Oxford, Cambridge, LSE, and UCL. A 2:1 or higher grade classification is expected. Diversity candidates receive explicit preference at many banks, and students from underrepresented backgrounds have access to programs that are structurally easier to enter than the general pools.
 
 ---
 
-## Who Gets These Programs
+## The Conversion Question: What Spring Weeks Actually Get You
 
-The demographic pattern of spring week and early insight programs reflects two explicit priorities:
+Completing a spring week does not guarantee a summer internship. This is the most important thing to understand about these programs and the fact that is most consistently misunderstood by students who receive spring week offers and stop competing.
 
-**Diversity**: The majority of named programs at major banks explicitly target students from underrepresented groups - first-generation college students, women in finance, students from lower socioeconomic backgrounds, students from underrepresented racial and ethnic groups. If you fit any of these criteria, these programs are not just a nice-to-have - they are the most efficient path into the recruiting pipeline at most major firms.
+The conversion rate from spring week to summer analyst internship is approximately 20 to 40% on average across major banks, though some firms sit significantly higher - Citi reportedly reaches a conversion rate near 80 to 90% for its spring week participants.[^2] The pipeline logic is: approximately 50% of spring week participants advance to an assessment center, and roughly half of those receive summer analyst offers. The math means the majority of spring week participants do not convert directly, regardless of how well the week went.
 
-**Target school students without banking backgrounds yet**: Some programs are not explicitly diversity-focused but target first-year and second-year students who do not yet have finance experience. These are talent development programs that recognize the bank needs to identify strong candidates before they build experience elsewhere.
+The structural reason for this is that banks cannot evaluate participants on work product. There is no live deal access during a spring week. What they are actually assessing is: are you someone bankers want to be around? Did you ask intelligent questions? Did you follow up appropriately with contacts you made? Did you demonstrate the kind of intellectual engagement that suggests you will perform well when given real work?
 
-**The non-target exception**: There are programs specifically designed for students from non-target or under-recruited schools. These are less common but exist and are worth researching. A student from a regional state school who participates in a bank's non-target outreach program has an unusual and often very effective path into the recruiting process.
-
-If you do not fit any of the above categories - you are a junior at a target school, majority background, no prior programs - the spring week pipeline is largely closed to you. Your path is standard OCR, which is covered in the [OCR strategy guide](/job-search/ocr-strategy-bidding-lists/).
+The practical implication is that spring week participants need to treat the week as the beginning of a sustained networking effort, not as a transaction that is complete when they leave the building. Students who win summer internship offers after spring weeks consistently report that follow-up quality - personalized emails, remembered conversations, demonstrated interest in specific groups - was the differentiating factor in their conversion.
 
 ---
 
-## The Sophomore Internship: Different Animal, Same Purpose
+## The US Track: Sophomore Programs and Early Insight Events
 
-Separate from the spring week programs, most major banks and several elite boutiques now offer formal sophomore summer internship programs. These are typically four to ten weeks in length during the summer after sophomore year, are paid, and are structured similarly to junior summer programs in terms of content - though the work is often less complex and the cohort experience is more heavily programmed.
+For US students, the equivalent of the UK spring week is a collection of programs that go by different names at different banks: sophomore summer analyst programs, early insight programs, freshman diversity days, and sophomore explorer programs. They serve the same strategic purpose - early talent identification, pipeline building, and pre-positioning candidates for junior year summer analyst recruiting - but the format differs significantly.
 
-The strategic importance of a sophomore summer internship at a target firm is significant:
+The most prominent named programs in the current cycle include:
 
-**Conversion to junior summer**: The explicit purpose of most sophomore programs is to identify students for junior summer offers. Conversion rates from sophomore intern to junior summer offer vary by firm but are consistently reported (by WSO users who have been through the programs) to be meaningfully higher than conversion rates from cold OCR applications. At some firms, the sophomore-to-junior pipeline conversion is so reliable that it functions as the primary hiring mechanism for that year's analyst class.
+**Goldman Sachs Possibilities Series and Virtual Insight Series**: The Possibilities Series opens applications on February 1; the Virtual Insight Series opens March 16. Goldman also offers a four-week virtual insight program. Acceptance rates across Goldman's early programs are under 1% for the most competitive formats.[^3]
 
-**Early technical exposure**: Students who complete a sophomore banking internship - even a generalist one - have a clear advantage in OCR technical interviews because they have been in the building, seen real deal materials, and understand what the work actually involves. This is not something you can fully replicate through courses or self-study.
+**Morgan Stanley Early Insights Program**: January deadline. Structured early engagement program targeting sophomores from target schools and diversity candidates.
 
-**The resume effect**: A sophomore internship at Goldman or Lazard is a credentialing event that changes your recruiting profile permanently. Your resume now has a name-brand line at a formative stage, which opens doors in junior year that would otherwise require extraordinary other evidence to open.
+**JPMorgan Launching Leaders Fellowship**: The 2026 cycle deadline was January 13. This is one of the most competitive sophomore-level programs at any US bulge bracket, with acceptance rates under 5%.[^4]
 
----
+**Santander US Corporate and Investment Banking Sophomore Summer Analyst Program**: A formal sophomore summer analyst program with structured training, mentorship, a leadership speaker series, and networking events. The eligibility requirements are a current sophomore standing, a Finance, Accounting, or Economics degree path, strong GPA, prior financial services experience preferred, and a working understanding of markets, investment principles, and basic accounting. Performance during the program creates a clear pathway to a return offer for the junior summer analyst program.[^5]
 
-## How to Apply: What Most Guides Miss
+Across these programs, the demographic pattern is consistent: the majority of spots go to students at target schools (Yale, Princeton, Wharton, Columbia, Harvard, MIT, Chicago) and to diversity candidates - first-generation students, women in finance, and students from underrepresented racial and ethnic groups. Yale's Office of Career Strategy documents this explicitly, noting that its banking-focused students begin networking conversations with bankers in September of sophomore year, with applications opening mid-September and remaining open for approximately one month before closing.[^6]
 
-The application mechanics for spring weeks and sophomore programs are different from junior summer OCR in ways that catch candidates unprepared:
-
-**They open earlier.** Most freshman and sophomore programs open applications in the fall semester, sometimes as early as September or October. If you are waiting until spring to research these programs, you have already missed the window for many of them.
-
-**They are not always advertised through OCR.** Some programs are posted through the bank's careers page directly, through diversity recruiting organizations, or through campus-specific communications that do not go through the standard OCR portal. You need to be monitoring bank careers pages and diversity recruiting networks independently.
-
-**The application is simpler but still requires preparation.** Many spring week and early insight programs use short-answer questions rather than technical assessments. The questions tend to be: "Why finance?" "Why this firm?" "Tell us about a time you demonstrated leadership." These are easier to answer than a technical modeling test, but that ease means the differentiator is quality of writing and specificity of answer rather than technical knowledge.
-
-**A resume is still required.** Even for a first-semester freshman, a resume matters. Review the [investment banking resume guide](/job-search/investment-banking-resume/) early - a high school student applying for freshman programs needs a resume that represents their academic achievement, leadership, and any work experience clearly and professionally.
+For other firms, applications typically open in early January with virtual interviews and banker meetings following in February. Phone and campus interviews run October through November at select schools, and super days fall in December or January.
 
 ---
 
-## Diversity Programs: A Specific Note
+## The Stepping Stone Model: What to Do When You Cannot Get the Direct Path
 
-Several major banks run programs that are specifically designated for underrepresented groups:
+Most sophomores, including many strong candidates at good schools, will not get into bulge bracket or elite boutique early programs on their first application cycle. The acceptance rates are simply too low and the competition includes students who have been preparing since before they enrolled.
 
-- Goldman Sachs Summer Analyst Diversity programs
-- J.P. Morgan's Advancing Hispanics & Latinos and Black Excellence programs
-- Citi's Freshman Opportunity and Spring Diversity programs
-- Morgan Stanley's Finance Scholars Program
+The research consensus across Wall Street Oasis, Mergers and Inquisitions, and the practitioner community is clear on this: take any finance-adjacent role and use it as a bridge.[^2][^4]
 
-These programs are not participation trophies. They are competitive, they are short-listed through the same recruiting infrastructure as other hiring, and the candidates who succeed in them are genuinely strong. The [diversity interview programs guide](/interview-prep/diversity-interview-programs/) covers the interview preparation for these specifically.
+The stepping stone hierarchy for US students who cannot immediately access BB or EB programs:
 
-The practical implication for eligible candidates: if you qualify for any of these programs, apply to them as a first priority alongside or ahead of standard OCR. The conversion rates are better, the programs are more accessible from non-target schools, and the downstream effects on your junior year recruiting position are significant.
+**Big Four Transaction Advisory Services (Deloitte, PwC, EY, KPMG)**: M&A due diligence, valuation, and deal support work. Pay range is $20 to $30 per hour. Applications typically open September to November. These are described consistently as "the most realistic high-value target for most students" who cannot access direct banking roles immediately. Students with Big Four TAS internships regularly convert to Goldman, Morgan Stanley, and elite boutique offers for junior year.[^4]
 
----
+**Middle-market investment banks (Houlihan Lokey, Lincoln International, Harris Williams)**: Real analytical work - financial modeling, pitch books, valuation. Hired primarily through networking January through March. A sophomore or spring-semester internship at a middle-market firm is described as essentially guaranteeing interviews at larger banks for junior year recruiting.[^4]
 
-## Spring Week vs. Sophomore Internship: Which Matters More
+**Corporate finance at Fortune 500 companies**: FP&A, treasury, corporate development, and investor relations at Microsoft, Google, Amazon, GE, P&G, Nike, and comparable companies. Pay range $20 to $35 per hour. "Very accessible for freshmen and sophomores with decent academics" per the IB Interview Questions practitioner database.[^4]
 
-If you have the option of both, prioritize the sophomore internship. The duration and depth of experience is greater, the conversion rate to junior summer is higher, and the resume line is more substantive.
+**Boutique investment banks**: One to ten person lower-middle-market shops. Real deal work, often unpaid or minimally paid. Highly accessible through direct outreach. WSO practitioners recommend identifying 50 to 100 firms via LinkedIn in your target market, then sending a direct email to each with the subject line "Student Seeking Unpaid Summer Internship." The cold outreach conversion rate is low per firm but acceptable at volume.[^7]
 
-If you can only access spring weeks and insight programs, pursue them. They are still valuable for the relationship-building and recruiting priority effects, even if the direct conversion path is weaker.
+**Equity research at regional firms (Raymond James, Baird, Stephens)**: Financial modeling, industry research, and valuation. Pay $15 to $25 per hour. Apply January through March via networking with regional analysts.
 
-If you are at a school where neither is accessible - not on the diversity program radar and not at a firm-targeted school - the fallback is to treat freshman and sophomore years as a preparation period. Build relevant experience through local finance opportunities, case competitions, campus investment funds, and target the junior summer recruiting process with the best possible profile.
+The principle is validated consistently: students with Big Four TAS or middle-market IB sophomore internships regularly win offers at Goldman, Morgan Stanley, and elite boutiques at the junior year level. The stepping stone approach works when executed early and with volume.
 
 ---
 
-## The Timing of All of This
+## The GPA Floor and the Networking Minimum
 
-The rough calendar for early pipeline programs:
+Two inputs are consistently cited as prerequisite filters before any of this matters.
 
-- **September-October (freshman fall)**: Applications open for first-year diversity programs and spring insight programs. Most students do not know this. The ones who do have a significant edge.
-- **October-December**: Applications for sophomore summer internship programs. These are highly competitive and have early deadlines.
-- **January-March**: Spring weeks and insight programs take place.
-- **March-April**: Sophomore summer recruiting wraps; offers extended.
-- **Summer (after sophomore year)**: Sophomore internships run.
-- **Fall of junior year**: OCR begins, with prior-program participants already positioned.
+**GPA**: The functional floor for formal bulge bracket programs is 3.5. Applications below that threshold are frequently filtered algorithmically before a human reads them. If your GPA is below 3.5, your energy is better spent repairing it than applying to programs you will not clear. Mergers and Inquisitions recommends having a 3.5 or higher as a baseline requirement before beginning applications to summer analyst programs.[^8]
 
----
+**Networking conversations**: The recommended benchmark before sophomore year applications open is 30 to 40 completed informational interviews or coffee chats with bankers, ideally begun during the summer after freshman year with alumni as the first point of contact. This is not about name-dropping in cover letters. It is about building genuine familiarity so that when you submit an application, someone in the process has already formed a view of you.[^8]
 
-## A Note on the Pressure This Creates
-
-There is an uncomfortable reality embedded in this entire system: the banking recruiting pipeline now effectively starts before some students have decided they want to be in banking. A freshman who applies to first-year diversity programs in September is making a career direction call before they have taken a single finance course.
-
-This creates a real disadvantage for students who come to finance later - through a junior year finance class, through a conversation with an alumnus, through an interest that develops gradually. These students are not excluded from banking, but they are excluded from the early-pipeline advantages and have to work harder in junior year to overcome that deficit.
-
-If you are reading this as a late-decider, be honest about the position: you are entering the standard OCR pipeline without the pre-positioning advantages. That means your OCR preparation has to be more thorough, your networking has to compensate for the lack of firm relationships, and your application materials have to be close to perfect. It is doable. Plenty of people do it every year. But the path is longer than the one the early-pipeline students are on.
+The volume target for application submissions is 80 to 100 opportunities total, combining formal applications and networking-generated conversations. The mix should be approximately 80% realistic Tier 2 targets (Big Four, middle-market IB, corporate finance, equity research) and 20% reach applications to bulge brackets and elite boutiques. Applications only to Goldman or Morgan Stanley, with no parallel pipeline of realistic targets, is a losing strategy regardless of how strong your profile is.
 
 ---
 
-## What You Should Do Next
+## Application Mechanics: What Catches Candidates Off Guard
 
-1. **If you are a freshman or sophomore: find and calendar every relevant spring week and sophomore internship deadline right now.** Many close in October or November. Set Google alerts for bank names plus "spring program" or "sophomore internship."
+The application process for spring weeks and early insight programs has specific characteristics that are different from standard OCR, and failing to account for them is a recurring error.
 
-2. **If you are eligible for diversity programs: treat those as your first-priority applications.** Research which programs you qualify for, what their timelines are, and apply before worrying about standard OCR.
+**Applications open earlier than most students expect.** UK spring week applications open August to October for programs running the following spring - a six-month lead time that most freshmen are not tracking. US sophomore program applications open September to October for programs that run the following summer. Students who begin researching in November or January have already missed a significant portion of the available programs.
 
-3. **Get your resume ready now, even as a freshman.** Review the [resume guide](/job-search/investment-banking-resume/) and build something clean that represents your academic and extracurricular record. You will need it earlier than you expect.
+**These programs are not all listed on OCR.** Many are posted only on the bank's careers page, through diversity recruiting networks, or through campus-specific communications that bypass the standard on-campus recruiting portal. Monitoring bank careers pages independently is not optional.
 
-4. **Look at your school's OCR calendar.** If your school does not have strong OCR participation in banking, [the OCR strategy guide](/job-search/ocr-strategy-bidding-lists/) will clarify your options. Consider whether you need to supplement OCR with direct networking.
+**The application format is different from junior summer recruiting.** Most spring week and early insight applications use short-answer competency questions rather than technical assessments: Why finance? Why this firm? Describe a time you demonstrated leadership. Word counts are typically 150 to 300 words per question. The differentiator is writing quality and specificity of answer. Vague answers that could apply to any bank - "I am passionate about finance and want to learn from the best" - fail consistently. Specific answers that reference a deal, a group, a market development, or a named banker conversation succeed.
 
-5. **If you are a junior or senior who missed the early pipeline: do not waste time mourning it.** Focus entirely on making your OCR profile as strong as possible, supplemented by direct networking. The path is harder but not closed.
+**Numerical and verbal reasoning assessments follow initial screening.** After the written application, most programs deploy numerical and verbal logic tests before moving to a HireVue video interview or a telephone interview focused on fit and occasionally light technical questions. Practice these under timed conditions.
+
+---
+
+## Diversity Programs: Not a Consolation Track
+
+A distinct category of programs deserves direct treatment because it is consistently underutilized by eligible candidates.
+
+Goldman Sachs runs Possibilities Series and Virtual Insight Series programs specifically for diversity candidates. JPMorgan's Launching Leaders Fellowship has an explicit diversity mandate. Santander's sophomore program prioritizes underrepresented groups. Morgan Stanley's Finance Scholars Program targets first-generation students and those from lower socioeconomic backgrounds.
+
+These are not participation events. They are competitive programs with low acceptance rates and direct conversion paths to summer analyst roles. The downstream conversion rates from these diversity programs to junior year summer offers are consistently reported as higher than those from cold OCR applications at the same firms.
+
+Eligible candidates - first-generation students, women, students from underrepresented backgrounds - who do not apply to these programs as a first priority are leaving accessible fast-track pathways unused while competing in harder, colder pools. That is not a tradeoff worth making.
+
+---
+
+## The Honest Timing Picture
+
+Laid out sequentially, the calendar for students on both tracks looks like this:
+
+**UK students:**
+- August to October (Year 1): Spring week applications open. Apply immediately and broadly. First-come, first-served.
+- December to January: Offers sent.
+- February: Scheduling confirmed.
+- March to April: Spring weeks run. Network aggressively during the week and follow up afterward.
+- September to October (Year 2): Summer analyst applications open. Prior spring week participants position themselves for interview fast-tracks.
+
+**US students:**
+- Spring of freshman year: Begin networking. Join finance clubs. Target leadership positions.
+- Summer after freshman year: First internship in any finance-adjacent role. Unpaid boutique is acceptable. Experience matters more than compensation.
+- September to October (sophomore year): Diversity program applications open. Big Four and corporate finance applications open. Apply to everything realistic immediately.
+- January (sophomore year): JPMorgan Launching Leaders and similar deadlines. Goldman opens in February.
+- October to November: Phone and campus interviews at target schools.
+- December to January: Super days.
+- Summer after sophomore year: Sophomore internships run.
+- Fall of junior year: Summer analyst OCR begins. Participants with prior programs enter with existing firm relationships.
+
+The single largest structural mistake visible in this calendar is delay. Students who begin this process in junior year without prior firm engagement are entering a recruiting process where the pipeline participants have been competing for two years. They are not excluded, but the gap in positioning is real and requires real effort to close.
+
+---
+
+## What You Should Do Now
+
+**Freshmen and early sophomores**: Pull the application deadlines for every spring week (UK) or sophomore early insight program (US) relevant to your profile. Many close in October or November. Set calendar reminders. If you qualify for diversity programs, those are your first-priority applications - research the specific programs at Goldman, JPMorgan, Citi, Morgan Stanley, and Santander and get their deadlines into your calendar before reading anything else.
+
+**Students who cannot access direct banking programs yet**: Target Big Four TAS, middle-market IB, and corporate finance roles aggressively. Apply to 80 to 100 opportunities across realistic and reach categories. Do not refuse unpaid boutique roles on prestige grounds - real deal experience at a small firm is more valuable for your profile than a summer with no finance work at all.
+
+**Juniors entering OCR without prior programs**: The gap is real but closeable. Your OCR preparation has to be more thorough, your networking has to compensate for the absence of existing firm relationships, and your application materials need to be close to perfect. Build your networking conversation count before OCR opens. Review the [OCR strategy guide](/job-search/ocr-strategy-bidding-lists/) for the bid selection and positioning mechanics. Focus forward.
+
+**Everyone**: Get your resume ready before you think you need it. Review the [investment banking resume guide](/job-search/investment-banking-resume/) and build something clean. You will need it earlier than you expect.
+
+---
+
+[^1]: Deutsche Bank. "Spring Into Banking." Deutsche Bank Careers. https://careers.db.com/students-graduates/insight-programmes/uk-and-ireland/spring-into-banking
+
+[^2]: Mergers and Inquisitions. "Investment Banking Spring Weeks: The Full Guide." https://mergersandinquisitions.com/investment-banking-spring-weeks/
+
+[^3]: Goldman Sachs Careers. "2026 Summer Analyst Program." https://www.goldmansachs.com/careers/students/programs-and-internships/americas/2026-summer-analyst-program
+
+[^4]: IB Interview Questions. "Best Freshman and Sophomore Internships for IB." https://ibinterviewquestions.com/blog/best-freshman-sophomore-internships-ib
+
+[^5]: Santander. "US Corporate and Investment Banking Sophomore Summer Analyst Program." https://www.santander.com/en/careers/where-you-want-to-create-an-impact/santander-future-talent/us-corporate-investment-banking-sophomore-summer-analyst-program
+
+[^6]: Yale Office of Career Strategy. "Investment Banking 2026 Summer Internship Overview for Sophomores." https://ocs.yale.edu/resources/investment-banking-2026-summer-internship-overview-for-sophomores/
+
+[^7]: Wall Street Oasis. "What Do Sophomores Usually Do for Internships." https://www.wallstreetoasis.com/forum/investment-banking/what-do-sophomores-usually-do-for-internships
+
+[^8]: Mergers and Inquisitions. "Investment Banking Summer Internship Recruiting." https://mergersandinquisitions.com/investment-banking-summer-internship-recruiting/

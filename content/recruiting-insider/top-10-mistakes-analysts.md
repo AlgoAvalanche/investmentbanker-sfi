@@ -11,146 +11,179 @@ internal_links: ["/recruiting-insider/first-90-days-ib-analyst/", "/recruiting-i
 
 # Top 10 Mistakes Analysts Make in Year One
 
-There is a predictable set of analyst mistakes that appear with enough regularity across banks, groups, and cohort years that they might as well be curriculum. The analysts who avoid them - or at least avoid repeating them after the first occurrence - are the ones who build strong reputations in year one. The analysts who do not are the ones who become the cautionary examples that their associates and VPs cite for the next three years.
+There is a predictable set of analyst mistakes that repeat with enough regularity across banks, groups, and cohort years that they might as well be curriculum. Smart analysts from excellent schools make them. Prepared analysts who read every recruiting guide and survived every superday make them. The difference between the analysts who build strong reputations in year one and the analysts who become cautionary examples their associates cite for the next three years is not raw intelligence or technical preparation. It is whether they learned to override the instincts that produced the mistakes in the first place.
 
-None of these mistakes are unique to you. Every one of them has been made by smart, well-prepared analysts who went to excellent schools and thought they were ready. That should be reassuring, not dismissive. The preparation is knowing what is coming.
+This article covers the ten most common ones. The research behind it draws from practitioner sources including Mergers and Inquisitions, Wall Street Oasis, eFinancialCareers, and Prospect Rock Partners - sources that aggregate real banker experience rather than theoretical frameworks. Where specific data exists, it is cited. Where the patterns are consistent across multiple sources, that consistency is noted.
+
+None of these mistakes are exotic. Every one of them is ordinary. That is exactly why they matter.
 
 ---
 
-## Mistake 1: Sending Work Without Proofreading It
+## Mistake 1: Sending Work Without a Structured Error Hunt
 
-This is the most common analyst mistake and it is not close. Sending a model, a deck, or an email with an unchecked error - a broken formula, a formatting inconsistency, a wrong date, a typo in a company name - is the fastest way to damage your credibility in the first six months.
+This is the most common first-year analyst mistake and it is not particularly close. A broken formula, a formatting inconsistency, a transposed date, a company name misspelled in the header of a pitch book - any of these signal incompetence to a senior banker, regardless of how technically sound the rest of the work is.
 
-The reason this mistake is so common is that analysts are frequently working on compressed timelines and are exhausted when the work is due. The impulse to send it and be done with it is strong. The impulse is wrong.
+According to eFinancialCareers, sourcing practitioner feedback from active investment bankers, "delivering a piece of work that is plain wrong is the best way to screw up. Delivering it later than expected follows a close second." [1] The same source notes that "using commas instead of semicolons to separate footnotes on page 12 of the appendix can anger your VP and affect your review." [1] That is not a hypothetical. It is a documented example from a real performance review cycle.
 
-The professional standard in banking is: before anything goes to a senior banker or a client, you review it specifically looking for errors, not reviewing it as a general quality check. These are different cognitive activities. A general quality review confirms that the work is structured correctly. An error hunt assumes there are errors and looks for them systematically.
+The reason this mistake is so common is structural. Analysts work 70-100 hours per week in their first year. [2] At the end of a compressed timeline, the impulse to send work and be done with it is strong. The impulse is wrong.
 
-Build a checklist for each output type - models have different error patterns than decks, which have different patterns than emails. The two minutes spent running the checklist will save the forty-five minutes spent explaining the error at 11 PM.
+The professional standard is to distinguish between a quality review - confirming that the work is structured correctly - and an error hunt, which assumes errors exist and searches for them systematically. These are different cognitive activities. A quality review will miss a transposed number because your brain fills in what it expects to see. An error hunt does not. The Wall Street Oasis practitioner community recommends printing the final version before submitting, because "errors that are invisible on screen are obvious on paper." [2] Prospect Rock Partners makes the same point: "Print the final version before presenting - errors stick out like sore thumbs on paper." [4]
+
+Build a checklist for each output type. Models have different error patterns than decks, which have different patterns than client emails. Run the checklist before anything goes upstairs. The two minutes this takes will routinely save forty-five minutes of damage control at 11 PM.
 
 ---
 
 ## Mistake 2: Over-Explaining When Something Goes Wrong
 
-When you make an error - and you will - the professional response is: acknowledge it briefly, fix it immediately, confirm the correct version. What it is not: a paragraph explaining why the error occurred, what you were dealing with at the time, and how you will prevent it in the future.
+When you make an error, the professional response is: acknowledge it briefly, fix it immediately, confirm the correct version is on its way. What it is not: a paragraph explaining the circumstances that produced the error, the timeline pressure you were under, and the controls you are implementing to prevent a recurrence.
 
-Senior bankers do not want the backstory. They want the correct version. The explanation - even if accurate and reasonable - signals that you prioritize defending yourself over fixing the problem. It also takes up their time.
+Senior bankers do not want the backstory. They want the correct version. An explanation - even an accurate and reasonable one - signals that you are prioritizing your own anxiety management over their time. It also signals that you are more invested in how the error reflects on you than in solving the problem.
 
-This is a particularly common analyst mistake because the instinct to explain comes from anxiety, and the anxiety is understandable. You have made an error in front of someone whose opinion of you matters professionally. The explanation feels like it will help manage their assessment of you. It usually does the opposite.
+"Sending the corrected version now" is almost always the right response. If a senior banker specifically asks what happened, answer briefly and factually. Otherwise, fix first and speak minimally. This requires overriding a strong instinct - the instinct to explain comes from anxiety, and the anxiety is understandable - but overriding it is the professional behavior.
 
-"Sending the corrected version now" is almost always the right response to an error. That is it. If a senior banker specifically asks what happened, answer briefly and factually. Otherwise, fix first and speak minimally.
-
----
-
-## Mistake 3: Not Writing Things Down
-
-Every banking analyst is told more information in their first three months than they can reliably retain. Model conventions, deal context, client preferences, communication preferences of specific senior bankers, formatting standards - this information is delivered once, in passing, often at 9 PM when you are already three tasks deep.
-
-Analysts who take meticulous notes and build reference documents for everything they learn outperform those who rely on memory. This is not a question of intelligence. It is a question of professional discipline.
-
-The practical approach: maintain a running document for each senior banker you work with that captures their specific preferences - how they like models structured, how much context they want in emails, whether they prefer Slack or in-person communication for quick questions. Maintain a separate document for deal-specific conventions and context. Review these documents at the start of each workday.
-
-Asking the same question twice because you forgot the answer is a reputation-damaging event that is entirely preventable.
+Mergers and Inquisitions frames this in terms of attitude signaling: the response "Sounds good, will do!" reads differently than "OK," and both read differently than a paragraph of self-justification. [3] Senior bankers are assessing attitude before work quality is even measurable. Early tone and responsiveness set the trajectory. That assessment starts from the first error, not from a formal review.
 
 ---
 
-## Mistake 4: Miscommunicating Timeline or Scope
+## Mistake 3: Not Taking Notes - and Not Building Reference Documents
 
-"I'll have it to you tonight" followed by delivery at 6 AM is a timeline failure, regardless of the quality of what you delivered. "I built what you asked for" when you built something adjacent to what was asked is a scope failure.
+Every banking analyst receives more information in their first three months than they can reliably retain. Model conventions, deal context, client preferences, communication preferences of specific senior bankers, formatting standards - this information is delivered once, in passing, often at 9 PM when you are already three tasks deep.
 
-Timeline and scope miscommunication are different errors with a common root: analysts often do not confirm expectations explicitly before starting work and do not surface problems early when they realize the timeline is slipping.
+Wall Street Oasis contributors with senior banking experience are direct on this: "Always take notes in meetings and on calls. Create to-do lists and pre-note tasks in your calendar." [2] The same community flags that asking the same question twice - because you forgot the answer from the first time - is a reputation-damaging event that is entirely preventable.
 
-The correct behavior when you take on a task: confirm the deadline explicitly ("I'll have this to you by 10 PM - does that work?") and confirm the scope briefly ("I'm planning to do X, Y, and Z - is that the right frame?"). The five minutes this takes will prevent multiple hours of wasted effort and the difficult conversation that follows.
+The correct approach is not just note-taking in meetings but building structured reference documents. Maintain a running document for each senior banker you work with that captures their specific preferences: how they like models structured, how much context they want in emails, whether they want questions batched or surfaced as they arise. Maintain a separate document for deal-specific conventions and current context. Review these at the start of each workday.
 
-When a timeline is going to slip - because you got pulled onto something urgent, because the task is more complex than it appeared, because it is 2 AM and you are making errors - surface this as early as possible. Not at 5:55 AM when the 6 AM deadline has already passed. At midnight when you realized you would not make it.
-
----
-
-## Mistake 5: Misreading the Hierarchy
-
-Banking has a formal hierarchy - Analyst, Associate, VP, Director/SVP, MD - and an informal one that does not always align with it. The formal hierarchy tells you who has the title. The informal hierarchy tells you who actually has authority over specific work, deals, and decisions.
-
-A common analyst mistake is treating all MDs equivalently, when in practice some MDs run deals and some are primarily relationship-focused. It is treating all Associates as peers, when in practice a third-year associate has fundamentally different standing than a promoted first-year. It is not recognizing that certain analysts in the class above yours have effectively become informal supervisors by virtue of experience.
-
-For the full treatment of how to read these dynamics, see [group politics for analysts](/recruiting-insider/group-politics-read-the-room/). The short version: spend your first month observing who defers to whom and why, rather than assuming the org chart is the full picture.
-
-The specific mistake that causes the most damage: delivering work directly to an MD when your Associate was supposed to review it first. This looks like you are going around the Associate, regardless of your intent. Always know where a piece of work sits in the review chain and follow it.
+This is not about intelligence. Analysts who rely on memory are not smarter than analysts who take notes. They are simply taking on avoidable risk in an environment where the cost of forgetting is high.
 
 ---
 
-## Mistake 6: Being the Last to Know on Your Own Deals
+## Mistake 4: Going Silent When Overwhelmed
 
-Analysts who are passive about deal intelligence - who wait to be told what is happening rather than actively tracking developments - end up perpetually behind. This manifests as: getting a revision request and not knowing enough about the deal context to prioritize it correctly; being in a client meeting and not knowing the current status of a key diligence issue; delivering a model update that fails to account for a development that was discussed in a meeting you were not in.
+The correct behavior when you are drowning is the opposite of silence. It is early, proactive communication to the people who can help reprioritize your workload before a deadline is blown.
 
-The fix is active context management. Read the email threads you are CC'd on, even the long ones. Ask your Associate briefly when things change: "I saw an email about [X] - should I be adjusting anything in the model?" Track your deal's position in the process so that requests make sense in context rather than arriving as isolated tasks.
+eFinancialCareers is explicit: "If work is running late, notify your Associate or VP immediately that you are working on quality and provide a realistic ETA." [1] Over-promising - taking on too much, not communicating the overload, and making mistakes under pressure - is one of the most consistent patterns cited by practitioners describing first-year failures.
 
-Analysts who know their deals become more useful faster. Analysts who remain execution resources without context stay in that role longer.
+The root cause is a misread of what senior bankers want. New analysts often believe that saying "I can't get this to you by midnight" is a failure signal. It is not. What is a failure signal is saying nothing, missing the midnight deadline, and delivering something at 4 AM that was rushed. The first communicates a workload reality. The second communicates poor judgment about when to escalate.
 
----
-
-## Mistake 7: Poor Communication Habits
-
-Banking involves a specific set of communication norms that are not instinctive and are not taught explicitly. Violating them is a consistent source of analyst-reputation damage.
-
-**Email length.** Senior bankers receive dozens of emails per hour during active periods. Emails from analysts should be brief, specific, and action-oriented. "Please find attached the updated model" is correct. A paragraph providing context for each change you made is not.
-
-**Subject lines.** Subject lines should be specific and current. "Updated - [Client Name] Model - [Date]" is a good subject line. "Quick question" is not.
-
-**Response time.** In banking, slow responses are interpreted as unavailability or disorganization. If you cannot answer immediately, acknowledge receipt and give a timeline: "On it, will have back to you by 8 PM." Then meet that timeline.
-
-**Verbal communication.** When asked a question directly, answer it directly before providing context or qualification. Analysts who answer "well, it depends" when asked a binary question are perceived as evasive or insufficiently decisive, regardless of whether the nuance is technically warranted.
+The correct sequence when you are overloaded: surface it as early as possible, describe the current task queue, and ask the Associate to help reprioritize. This is not weakness. This is workload management, and it is one of the more valued skills in a junior banker.
 
 ---
 
-## Mistake 8: Comparative Complaining
+## Mistake 5: Poor Excel and Model Hygiene
 
-Every analyst cohort has one or two members who complain regularly about the hours, the work, or specific senior bankers. They do this in ways they believe are private. They are not.
+A misplaced decimal or a broken cell reference in a financial model can alter a valuation by millions of dollars. [4] This is not an edge case. It is a documented failure mode from real deal environments.
 
-Banking groups are not large. Information travels. Comments made to fellow analysts are repeated to associates. Comments made to associates are repeated to VPs. The analyst who is perceived as having a bad attitude about the work - even if the underlying complaints are legitimate - is the last person staffed on the interesting deals, the last promoted, and the first cut if the group's needs contract.
+Prospect Rock Partners, writing from boutique advisory experience, identifies the core problem clearly: "If a junior investment banker's spreadsheets or models are audited without the file being well-formatted, readable, flexible, and dynamic, their analysis will be gutted." [4] The specific failure patterns are consistent across sources: hard-coded values without labels, inconsistent number formatting across tabs, circular references without documentation, assumption inputs embedded in formula cells rather than isolated in a dedicated assumptions block.
 
-This is not a call for silence about genuinely problematic working conditions. It is a call for discretion about ordinary professional dissatisfaction. If something is wrong in a serious way - harassment, ethical violations, genuinely unsafe conditions - raise it appropriately. If the model revision at 11 PM is not your idea of a good time, that is not information your group needs.
+The standard for a well-built model is that a stranger - meaning a senior banker who did not build it - can audit it in thirty minutes and understand every number. If that test would fail on your model, it is not finished. Models are communication tools as much as they are analytical tools. A model that cannot be audited cannot be trusted, and a model that cannot be trusted will be rebuilt by someone else, which means the analyst who built the original version has wasted everyone's time.
 
----
-
-## Mistake 9: Treating Training-Level Skills as Sufficient
-
-The technical training programs that banks run are introduction to competence, not competence itself. Analysts who leave training thinking they know how to build a full operating model because they did one in a classroom setting discover quickly that live deal model work is different in pace, complexity, and expectation.
-
-The analysts who compound fastest on technical skills are those who push beyond what the training covered. This means: reading the financial models that your group uses on live deals and understanding every formula and connection, not just the outputs. It means building practice models in your own time when the deal load permits. It means treating the BIWS or Mergers & Inquisitions advanced technical materials as active reference, not as things you looked at during recruiting prep.
-
-By month six, you should be able to move through your group's standard model templates without hesitation. If you are still consulting instructions or asking basic formula questions at that stage, you are behind the curve.
+The fix is structural: build models with clear separation between inputs, calculations, and outputs from the first cell. Label every hard-coded assumption. Format consistently throughout. Make the logic of every formula visible to a reader who does not know what you were trying to do.
 
 ---
 
-## Mistake 10: Not Investing in the Right Relationships Early
+## Mistake 6: Treating Peers as Competition
 
-The relationship investment error takes two forms: investing too broadly (being generically friendly with everyone and deeply invested with no one) or investing in the wrong people (prioritizing likability with peers over credibility with seniors).
+New analysts who hoard information, refuse to cover for colleagues when they are overloaded, and view their cohort as competition rather than as a team end up at a compounding disadvantage that is not immediately visible but becomes clear by the year-end review cycle.
 
-The analysts who build the strongest year-one reputations are those who identify two or three senior people in the group - typically including their Associate and one VP - and invest genuinely in those relationships through consistent excellent work, attentiveness to preferences, and professional respect. These relationships become the basis for deal staffing, for advocacy in performance reviews, and for the exit recommendations that matter when PE and HF headhunters start calling.
+Mergers and Inquisitions identifies this as one of the defining differences between the analysts who build strong careers and those who plateau technically but never advance. The STARR archetype - Strategic Try-hard with Awesome Reputation and Relationships - shares macros, covers for absent colleagues, organizes social activities, and builds peer advocacy. The TWAT archetype - Technical Wizard with Antisocial Tendencies - outperforms on spreadsheets and underperforms on everything that determines promotion and exit quality. According to Mergers and Inquisitions, "in approximately 90% of cases, the STARR's career trajectory significantly exceeds the technically superior TWAT's." [3]
 
-The peer relationships matter too, but they build naturally through proximity. The senior relationships require deliberate investment and will not build on their own.
+The mechanisms are concrete. An analyst who shares a macro with a peer builds a relationship that will pay back in the form of informal coaching, peer advocacy in reviews, and coverage when they themselves need help. An analyst who hoards it gains nothing because the macro is not a competitive advantage in a team environment.
 
----
-
-## The Meta-Pattern Behind All Ten
-
-Reading these ten mistakes together, a pattern emerges: most of them stem from defaulting to instinctive behavior rather than professionally calibrated behavior.
-
-The instinct to explain an error is understandable. The instinct to respond slowly when you are busy is understandable. The instinct to vent about frustrations is understandable. Banking requires overriding these instincts consistently in favor of behaviors that are optimized for the specific culture and hierarchy of the environment.
-
-For a full picture of what that culture looks like across its full complexity, see [the honest IB lifestyle breakdown](/recruiting-insider/honest-truth-ib-lifestyle/) and the context-specific discussion of [what the first 90 days actually feel like](/recruiting-insider/first-90-days-ib-analyst/).
-
-The analysts who avoid repeating these mistakes are not the ones who were naturally wired for banking. They are the ones who paid attention to the feedback they received, made adjustments quickly, and treated their first year as a professional development exercise rather than a test of their existing capabilities.
+Zero-sum thinking is wrong as a model of how banking careers work. The deal staffing decisions, the end-of-year rankings, and the exit recommendations that matter are all made by people who are watching how you behave with your peers - not just how you perform individually.
 
 ---
 
-## What You Should Do Next
+## Mistake 7: Mismanaging Communication with Senior Bankers
 
-1. **Build output-specific checklists before your start date.** One for models, one for decks, one for client emails. Use them before anything goes out the door, especially in the first six months.
+Banking has specific communication norms for interacting with senior bankers that are not instinctive and are not explicitly taught. Violating them consistently is one of the faster ways to damage your standing in the group.
 
-2. **Identify your most common instinctive response under pressure.** Do you over-explain? Go quiet? Deliver without confirming scope? Knowing your default error pattern lets you specifically guard against it.
+Mergers and Inquisitions identifies the correct escalation ladder for questions: check available resources first, ask peer analysts second, ask the associate third - and only after exhausting those options, bring a question to a VP. [3] And when you do bring questions to a VP, batch them. One office visit or one email with three questions is professional. Three separate emails with one question each is an interruption pattern that signals poor organization.
 
-3. **Set up a note-taking system in the first week.** Use whatever format works for you - a physical notebook, a digital document, a Notion database. The format does not matter. The discipline of documenting everything you learn does.
+Wall Street Oasis practitioners add a critical email discipline protocol: read every email aloud before sending, leave the "To" field blank until you are ready to send, have a peer analyst review substantive emails, run spell check, and use Ctrl+F to find inconsistent word usage and double spaces. [2] This protocol sounds excessive until you have sent an email to a Managing Director with a typo in the subject line.
 
-4. **Do not wait for formal feedback.** Ask your associate explicitly, at the four-week mark: "What is the one thing I should be doing differently?" Most associates will tell you something useful. If they do not, ask again at eight weeks.
+Email length is a separate issue. Senior bankers receive dozens of emails per hour during active periods. Emails from analysts should be brief, specific, and action-oriented. Include a summary sentence before any attachment. Pre-answer the four questions any reader will have: what is the purpose, what is the conclusion, what are the key assumptions, and what is still uncertain. Do not make a senior banker read three paragraphs to find out what you are asking.
 
-5. **Read [group politics for analysts](/recruiting-insider/group-politics-read-the-room/)** for the relationship and hierarchy layer that underlies many of these mistakes. Technical competence and professional discipline are necessary conditions for a strong year one. They are not sufficient without understanding the social architecture of the group you are in.
+---
+
+## Mistake 8: Misreading the Formal and Informal Hierarchy
+
+Banking has a formal hierarchy - Analyst, Associate, VP, Director, MD - and an informal one that does not always map onto it. The formal hierarchy tells you who has the title. The informal hierarchy tells you who actually controls deal staffing, review outcomes, and the recommendations that matter when exit opportunities arrive.
+
+The specific mistake that causes the most damage is delivering work directly to an MD when the Associate was supposed to review it first. This reads as going around the Associate regardless of your intent. It damages a relationship you depend on every day.
+
+A subtler version of this mistake is not recognizing that certain senior analysts in the class above yours have effectively become informal supervisors by virtue of deal experience and group standing. Treating them as peers rather than as people worth investing in is a missed relationship opportunity.
+
+For the full treatment of how to read these dynamics, see [group politics for analysts](/recruiting-insider/group-politics-read-the-room/). The short version: spend your first month observing who defers to whom and why before assuming the org chart is the complete picture. These observations will tell you more about how to navigate the group than any explicit orientation session.
+
+---
+
+## Mistake 9: Neglecting the Relationship with Support Staff
+
+Administrative staff, print room operators, executive assistants, and catering staff control systems that analysts depend on during the worst parts of their workload. Print queues at 2 AM, last-minute meeting room bookings, urgent catering requests before a client presentation - these requests go to staff who are often managing multiple simultaneous demands.
+
+The analyst who treats support staff as order-takers - handing over raw tasks with no relationship investment, no recognition, and no appreciation - gets deprioritized when it matters. The analyst who treats those relationships with the same professional respect they bring to senior banker relationships gets help when the situation is urgent.
+
+Mergers and Inquisitions is specific on the correct approach: complete 80% of any support task yourself before handing it over, and show genuine appreciation through small gestures when the help is delivered. [3] The practical implication is that you do not send a raw 200-page document to the print room at 11:45 PM and expect it to be collated, bound, and ready by midnight. You do as much of the preparation as possible yourself, you give as much lead time as possible, and you thank people when they deliver.
+
+This is not transactional politeness. It is a professional investment with real returns.
+
+---
+
+## Mistake 10: Arriving Late or Appearing Visibly Unprepared
+
+Investment banking is not university. The tolerance for late arrival is close to zero, and the tolerance for late arrival in the first ninety days is exactly zero.
+
+eFinancialCareers is direct: "Expect mockery for being late once and serious consequences for consistent tardiness. This isn't university." [1] Ten minutes late to a morning standup in the first month is a reputation event that follows you into performance discussions. Showing up visibly exhausted, visibly unprepared, or visibly disengaged in a meeting with a senior banker is read as a signal about your commitment before your work quality has any chance to speak.
+
+The first 3-6 months of an analyst's tenure are the critical window for group placement decisions, recruiting outcomes, and reputation formation. [3] Impressions formed in this window are durable. Poor early impressions do not erase themselves when the work quality eventually improves - they require active reconstruction over a much longer period. The analysts who treat the first ninety days as a sustained audition and sustain it without visible complaint are the ones whose reputations are built on solid ground by the time the first review cycle arrives.
+
+Sleep deprivation compounds this mistake. Two to three hours of sleep is enough to cause major errors in judgment. [2] The answer is not to find a way to function on less sleep - it is to flag workload problems early enough that the overnight marathons are rare rather than routine.
+
+---
+
+## Mistake 11: Treating Training-Level Skills as Sufficient
+
+The technical training programs that banks run are introductions to competence, not competence itself. Analysts who leave training thinking they can build a full operating model because they completed one in a structured classroom setting discover quickly that live deal model work is different in pace, complexity, and expectation.
+
+The analysts who compound fastest technically are those who push beyond what training covered. This means reading the financial models your group uses on live deals and understanding every formula and connection - not just the outputs. It means building practice models when the deal load permits. It means treating technical resources like BIWS or Mergers and Inquisitions advanced materials as active reference rather than recruiting prep you already used.
+
+Prospect Rock Partners frames the standard clearly: "Set the tone early that you are simply not a person who makes spelling or formatting errors." [4] The same principle applies to models. Set the tone early that your work is auditable, consistent, and built to a professional standard - not to a training exercise standard.
+
+By month six, you should be able to move through your group's standard model templates without hesitation. If you are still consulting instructions or asking basic formula questions at that stage, you are behind the curve, and the gap will widen rather than close unless you address it directly.
+
+---
+
+## The Pattern Behind All of Them
+
+Reading these mistakes together, a consistent structure emerges. Most of them stem from defaulting to instinctive behavior - the instinct to explain an error, to go quiet when overwhelmed, to compete with peers, to send work before it is checked - rather than professionally calibrated behavior.
+
+The instincts are not irrational. They make sense in most environments. Banking is a specific environment with specific norms that often run counter to those instincts. The analysts who succeed in year one are not the ones who were naturally wired for this. They are the ones who paid attention to the feedback they received, made adjustments quickly, and treated their first year as a professional development exercise rather than a test of capabilities they already had.
+
+"Nothing ever gets out the first time. Everything is subject to revision." [5] This is accepted as a cultural norm in deal environments, not as a failure signal. The analysts who internalize that norm - who build revision-tolerance and error-correction habits from day one rather than treating every mistake as an indictment - are the ones whose year-one arc bends upward.
+
+For a complete picture of what the culture looks like across its full complexity, see [the honest IB lifestyle breakdown](/recruiting-insider/honest-truth-ib-lifestyle/) and [what the first 90 days actually feel like](/recruiting-insider/first-90-days-ib-analyst/).
+
+---
+
+## What You Should Do Before You Start
+
+1. **Build output-specific checklists before your first day.** One for models, one for decks, one for client emails. Run them before anything goes out the door, without exception, for the first six months.
+
+2. **Identify your default error pattern under pressure.** Do you over-explain? Go silent? Send before checking? Knowing your instinctive failure mode lets you specifically guard against it rather than hoping it will not appear.
+
+3. **Set up a note-taking system in the first week.** Format does not matter. A physical notebook, a structured digital document, a running text file - whatever you will actually use consistently. The discipline of documenting what you learn is the thing that matters.
+
+4. **Do not wait for formal feedback.** Ask your associate at the four-week mark: "What is the one thing I should be doing differently?" Most associates will tell you something useful. If they do not, ask again at eight weeks.
+
+5. **Read [group politics for analysts](/recruiting-insider/group-politics-read-the-room/)** for the relationship and hierarchy layer that underlies most of these mistakes. Technical competence is a necessary condition for a strong year one. It is not sufficient without understanding the social architecture of the group you are in.
+
+---
+
+## Citations
+
+1. eFinancialCareers - "14 Ways Investment Banking Analysts Screw Up in Their First Weeks" - https://www.efinancialcareers.com/news/2017/10/12-ways-investment-banking-analysts-screw-up-in-their-first-weeks-on-the-job
+2. Wall Street Oasis - "Investment Banking Analyst: 15 Things I Wish I Knew" - https://www.wallstreetoasis.com/forum/investment-banking/investment-banking-analyst-15-things-i-wish-i-knew
+3. Mergers and Inquisitions - "How to Succeed On the Job in Investment Banking: STARR vs TWAT" - https://mergersandinquisitions.com/investment-banking-on-the-job-success/
+4. Prospect Rock Partners - "The High Cost of Mistakes in Investment Banking" - https://prospectrockpartners.com/the-high-cost-of-mistakes-in-investment-banking-a-survivors-guide/
+5. DealRoom / dealroom.net - industry cultural norm, widely cited across practitioner sources
+6. Wall Street Oasis - "What I Wish Every First Year Analyst Knew" - https://www.wallstreetoasis.com/forums/what-i-wish-every-first-year-analyst-knew

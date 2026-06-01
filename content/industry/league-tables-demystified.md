@@ -11,106 +11,136 @@ internal_links: ["/industry/goldman-vs-jpmorgan-vs-morgan-stanley/", "/technical
 
 # League Tables Demystified: Why Rankings Matter (And Don't)
 
-League tables are one of those financial industry conventions that look authoritative from the outside and look considerably more complicated once you understand how they actually work. Walk into any investment banking pitch and you'll see them: "Ranked #1 in Global M&A Advisory" or "Top 3 in Healthcare M&A for the past five years." Sometimes these claims are accurate. Sometimes they're the product of careful category selection, creative deal attribution, and a very specific definition of the universe being ranked.
+Walk into any investment banking pitch and you will see them. "Ranked #1 in Global M&A Advisory." "Top 3 in Healthcare M&A for the Past Five Years." The slides are polished, the footnotes are small, and the numbers look authoritative. Whether those claims are genuinely informative or the product of careful category selection, creative deal attribution, and a very precise definition of "the universe being ranked" - that depends entirely on how much you understand about how league tables actually work.
 
-Understanding league tables - what they measure, how they're compiled, and where they break down - is useful whether you're recruiting, pitching for a role, or eventually sitting across the table from a client who wants to know why they should hire your firm.
+This is not a cynical dismissal of league tables. They serve real functions and contain real signal. But that signal is embedded inside a methodology that rewards careful reading, and the gap between what a league table appears to say and what it actually says is wide enough to mislead candidates, clients, and analysts who take the numbers at face value. Understanding that gap is one of the more practically useful things you can learn before you start building pitch books or sitting across the table from a client who wants to know why they should hire your firm.
 
 ## What League Tables Are and Where They Come From
 
-League tables are periodic rankings of financial advisory and underwriting activity, typically compiled by third-party data providers. The two dominant sources are:
+League tables are periodic rankings of investment banking advisory and underwriting activity, compiled primarily by three data providers: Refinitiv (now operating under LSEG branding), Dealogic, and Bloomberg. Each ranks banks by their involvement in transactions during defined periods, measured through deal count, total dollar volume, or advisory fees. The rankings cover distinct product categories - M&A advisory, equity capital markets, debt capital markets, leveraged finance, and restructuring - and a bank's position varies substantially across these categories.[^1]
 
-**Dealogic** - Owned by ION Group, Dealogic is the primary source for investment banking league table data globally. Most firm-level claims about M&A rankings reference Dealogic data. Their methodology is detailed, updated regularly, and available to subscribers. Banks with Dealogic relationships can also access custom reports that - not coincidentally - sometimes show their firm in a favorable light.
+**Refinitiv / LSEG** maintains the broadest historical database, with transaction records going back to the 1970s through the SDC (Securities Data Company) module. Refinitiv gives full credit to all advisors on a deal and focuses primarily on announced transactions. Because its inclusion criteria are relatively broad and its credit allocation is full rather than split, Refinitiv tends to produce the highest aggregate market volumes of the three providers. Bloomberg Terminal users can access Refinitiv data alongside Bloomberg's own tables.[^4]
 
-**Bloomberg** - Bloomberg compiles its own league table data through Bloomberg Intelligence. The methodology differs somewhat from Dealogic, which means the same bank might rank #1 in Bloomberg's tables and #2 or #3 in Dealogic's for the same time period. Banks pick the source that flatters them more.
+**Dealogic**, owned by ION Group, is the most commonly cited source in pitch books and is generally considered the most methodologically rigorous of the three. Unlike a pure announcement-based system, Dealogic differentiates credit by advisory role and accepts bank submissions for deals not yet publicly documented - banks can submit engagement letters as proof of involvement. This means Dealogic rankings reflect what banks choose to report with verification, rather than purely third-party observation. The platform distinguishes between announced and completed deals and is widely preferred by banks building pitch materials precisely because its deal inclusion mechanism is well-documented.[^2] [^5]
 
-**Thomson Reuters / Refinitiv / LSEG** - The other major data provider, now operating under LSEG branding after multiple ownership changes. Some sectors and geographies use Refinitiv as the reference source more than Dealogic.
+**Bloomberg** applies conservative inclusion criteria and relies on verified attribution through confirmed filings. Bloomberg Terminal users access league tables through the LEAG function for underwriting rankings and the MA function for M&A advisory rankings. Bloomberg's approach is most trusted in fixed-income desks, where its coverage of debt capital markets is particularly strong. Its conservative methodology tends to produce lower aggregate totals than Refinitiv but higher confidence in each individual attribution.[^4]
 
-The basic methodology: each completed transaction is assigned to the advisors on both the buy side and sell side. The deal value is credited to the advising firm(s) for purposes of ranking. Rankings are then compiled by total deal value advised, number of transactions completed, or both, over a defined time period (typically calendar year, trailing twelve months, or multi-year).
+The practical consequence of these differences: the same bank can hold vastly different rankings depending on which provider you check and how narrowly you filter the data. A data discrepancy of 20 to 30 percent between providers on the same set of deals is documented and expected, not anomalous.[^2] When you see a league table claim in a pitch deck, the first question is not "what does this number mean" - it is "which provider produced this number, and why was that provider selected."
 
-## How Credit Gets Assigned - And Why It's Complicated
+## How Credit Gets Assigned - And Why It Gets Complicated
 
-Here is where league tables start to get interesting. Credit assignment sounds straightforward - the bank that advised the client gets credit for the deal - but the reality has enough nuance to occupy a small army of data professionals.
+The methodology for assigning deal credit sounds straightforward. The bank that advised the client gets credit for the deal. In practice, the mechanics have enough nuance to meaningfully shift rankings.
 
-**Full credit vs. pro-rata credit:** When multiple advisors work on the same transaction, each firm typically receives full credit for the deal value, not a pro-rated share. This means a $10 billion acquisition where Goldman, Evercore, and PJT all advised the acquirer counts as $10 billion in league table credit for each firm. This inflates the total deal value reported across the industry and occasionally creates incentives to add advisors to deals for purposes of credit visibility rather than genuine advisory value.
+**Full credit to every advisor on a transaction.** When five banks advise on a single transaction - two on the buy side, three on the sell side - each receives full credit for the deal value. A $10 billion acquisition where Goldman Sachs, Evercore, and PJT all advised the acquirer counts as $10 billion in league table credit for each firm. The sum of all banks' "advised deal value" in a given year therefore substantially exceeds actual total M&A volume.[^1] This is a methodology choice, not a neutral fact, and it has a significant downstream consequence: it creates incentives for banks to join transactions as co-advisors or fairness opinion providers purely for credit accumulation rather than because the client genuinely needs another voice at the table.
 
-**Buy-side vs. sell-side attribution:** Both the buy-side advisor and the sell-side advisor receive credit for the same transaction. Again, this is a methodology choice, not a neutral fact. A different methodology could credit only one side or split the credit.
+**Buy-side and sell-side both receive credit.** The acquirer's advisor and the target's advisor each receive credit for the full deal value. One $5 billion transaction therefore appears as $5 billion on both sides of the league table, again inflating aggregate totals while rewarding banks for any advisory presence on a transaction, regardless of the substantive role played.
 
-**Announced vs. completed deals:** Some tables rank by announced deal value; others rank by completed deal value. Since deal completion rates vary by sector and economic environment, the choice of methodology can meaningfully shift rankings. A bank that announces more deals than it completes will rank higher in announced-deal tables than in completed-deal tables.
+**Announced versus completed deals.** Refinitiv's methodology emphasizes announced deals; Dealogic distinguishes between the two. Since deal completion rates vary by sector and economic environment, this choice shifts rankings meaningfully. A bank that announces aggressively but completes at a lower rate will rank higher in announced-deal tables than in completed-deal tables. For candidates evaluating a bank's actual execution track record, completed-deal rankings are the cleaner signal.[^2]
 
-**Minimum size thresholds:** Most credible league tables apply a minimum transaction size to avoid clutter from very small deals. But the choice of threshold - $100M? $500M? $1B? - changes which firms rank well. A firm with strong middle market activity might dominate a table with a $100M threshold and barely appear in one with a $1B threshold.
+**Minimum size thresholds.** League tables apply minimum transaction size thresholds to exclude small deals from the count. The choice of threshold - $100 million, $500 million, $1 billion - changes which firms rank well. A firm with deep middle-market coverage may dominate a table with a $100 million floor and barely register in one filtered to deals above $1 billion. This is not gaming; it is a legitimate way to make the ranking relevant to a specific deal type. But it means that citing "we're #1 in healthcare M&A" without specifying the size band is leaving out information that matters.[^3]
 
 ## The Art of Table Selection
 
-Investment banks are not naive about any of this. Pitchbooks routinely include league tables that are carefully selected to show the bank in its most favorable position. This is not fraud - the underlying data is real. It is, however, deliberate framing.
+Investment banks are not naive about any of this. Analysts and associates building pitch books routinely run screens on Dealogic, Bloomberg, and Refinitiv using different combinations of sector, geography, size band, time period, and deal type until they find the combination that shows their firm most favorably. The resulting slide cites that combination in a precise footnote - "Source: Dealogic, Global Healthcare M&A, deals above $250M, January 2023 - December 2025" - and that footnote is technically accurate in every respect.[^1]
 
-Common techniques:
+This is standard practice. All parties to the pitch understand it. The analyst who built the slide did not fabricate data. They selected a subset of real data that tells a favorable story, which is a different thing entirely.
 
-- **Category narrowing:** "Global M&A #1" might be harder to win than "Cross-border Technology M&A in the Americas, Transactions between $500M and $5B, Q1-Q3 2024 #1." Both are league table claims. One is more meaningful.
-- **Source selection:** As noted above, using Bloomberg when it shows #1 and Dealogic when it also shows #1, and never using the source that shows #3.
-- **Time period selection:** Using Q1-Q3 data when full-year data shows a worse position. Or using a five-year average that smooths out a bad recent year.
-- **Restated definitions:** Adjusting what counts as "M&A advisory" versus "financial advisory" versus "strategic advisory" can shift rankings.
+Common techniques in pitch book league table construction:
 
-Senior bankers know clients understand this. The league table conversation in a pitch is often partially performative - both sides understand that the numbers have been massaged. The sophisticated client is less interested in the absolute ranking than in the pattern: has this bank been consistently active in our sector? Have they worked on deals similar to ours?
+**Category narrowing.** "Global M&A #1" is hard to win. "Cross-border Technology M&A in the Americas, transactions between $500 million and $5 billion, Q1-Q3 2024 #1" is easier, and is also a real league table claim. Both are league table claims. One is more meaningful as a proxy for general advisory strength.
 
-## When League Tables Actually Matter
+**Source selection.** Using Bloomberg when it shows #1 and Dealogic when that also shows #1 - and never using whichever source shows #3. Because methodologies differ structurally rather than being better or worse, this is defensible. It is still a choice.
 
-Despite the caveats above, league tables are not meaningless. They serve real functions:
+**Time period selection.** Using Q1-Q3 data when full-year data shows a worse position. Or using a five-year rolling average that smooths out a difficult recent year. Last Twelve Months tables are more commonly cited than Year-to-Date precisely because they reduce seasonality effects, but a bank that closed a single mega-deal 13 months ago will not appear in current LTM rankings at all.[^6]
 
-**Signal deal flow concentration:** A bank that consistently appears in the top tier of a given sector's league tables is genuinely doing more deals in that sector. The gaming at the margins doesn't change the basic signal. If Evercore has been in the top three of technology M&A for five consecutive years, they have more technology deal experience than a firm that appears rarely.
+**Deal universe redefinition.** Adjusting what counts as "M&A advisory" versus "financial advisory" versus "strategic advisory" can shift rankings in ways that are difficult to audit without deep familiarity with each provider's definitions.
 
-**Client selection tool:** Companies choosing advisors for significant transactions do use league tables as a filter. They narrow the universe of firms they'll invite to a beauty contest (a competitive pitch process). Being outside the top five or ten in a relevant category means you don't get invited to pitch. This creates genuine pressure on banks to maintain league table position, which in turn creates pressure to compete for all relevant mandates.
+Senior bankers know that clients understand this. The league table conversation in a pitch is partly performative - both sides know the numbers have been shaped. A sophisticated client is less interested in the absolute ranking than in the pattern: has this bank been consistently active in our sector? Have they worked on comparable transactions? Do the specific deal tombstones match the strategic problem we are trying to solve?
 
-**Analyst recruiting:** "We're consistently #1 in healthcare M&A" is a recruiting claim that resonates with candidates who want healthcare deal exposure. The claim is proxying for something real - deal flow - even if the specific ranking involves some methodology choices.
+## The Three-Provider Ecosystem in Practice
 
-**Internal resource allocation:** Banks use league table position to justify headcount decisions. A group that's falling in the rankings might face pressure on its budget; a group that's rising gets resources. This is imperfect but not irrational.
+For anyone accessing league table data directly - through a Bloomberg Terminal, a Dealogic subscription, or a university library's Capital IQ access - the practical workflow differs by platform.[^4]
 
-## When League Tables Don't Matter (Or Actively Mislead)
+On Bloomberg Terminal, LEAG pulls underwriting league tables and MA pulls M&A advisory rankings. Bloomberg's data is strongest for fixed income and ECM rankings. On Refinitiv / LSEG Workspace, the SDC module provides historical data back to the 1970s, which is useful for demonstrating long-term franchise strength. Capital IQ allows custom screening through Screening > Transactions, with saved search and alert functions - this is the most flexible option for building custom tables around specific parameters.
 
-**Fee productivity is a better metric than deal count.** A bank that completes 50 small deals might rank higher by deal count than a bank that completes 10 large, complex deals. But the ten-deal bank may have stronger senior relationships, better deal quality, and higher fee productivity per banker. Centerview Partners rarely appears at the top of deal count league tables because they're selective about mandates. They appear consistently in the top tier of total fee rankings.
+Cornell University's Johnson Library notes that the custom search capability of modern platforms is precisely what banks exploit in pitch book construction: "The flexibility of custom search parameters" is the key advantage of modern platforms, enabling "highly specific league tables."[^4] The same tool that lets a research analyst study sector concentration also lets an IB analyst find the screen that produces the most favorable number.
 
-**Sector-specific rankings can be swamped by one dominant year.** One mega-cap transaction can shift a firm's multi-year ranking significantly. A firm that advised on a $50B deal once will rank ahead of a firm that advised on 20 deals totaling $30B - even if the second firm has deeper sector coverage by any reasonable measure.
+## Volume Versus Quality - The Core Limitation
 
-**Restructuring tables are notoriously gamed.** Distressed M&A and restructuring league tables are particularly susceptible to creative deal attribution, partly because the advisory roles are less standardized and partly because the deal attribution process for complex Chapter 11 cases is genuinely ambiguous. Houlihan Lokey, PJT, and Lazard all have legitimate claims to restructuring leadership depending on how you define the universe.
+League tables capture quantity: number of deals, dollar volume, market share percentage. They say nothing about whether the deal was value-creating for the client, whether the bank provided substantive strategic advice or signed off on a fairness opinion as a formality, what the client satisfaction or repeat-mandate rate looked like, or how execution quality compared across timeline, price achieved, and deal structure.[^1]
 
-**International rankings can reflect accounting choices.** Some cross-border deal credit depends on where a transaction is "booked" for reporting purposes, which can depend on legal structure choices that have nothing to do with which office or team did the actual advisory work.
+This matters most in the comparison between bulge brackets and elite boutiques. Goldman Sachs, Morgan Stanley, and JPMorgan consistently occupy the top positions in global M&A advisory by deal value. Boutiques like Evercore, Lazard, Centerview, and PJT Partners often rank lower by deal volume but deliver higher fee revenue per transaction and stronger advisory quality scores in client surveys. Centerview Partners rarely appears at the top of deal count tables because the firm is selective about mandates. It appears consistently at the top of fee-based rankings and in premium transactions.[^1] [^3]
 
-## How to Read a League Table Intelligently
+The CFI framework for reading league tables across product categories captures this directly: banks often rank differently across M&A advisory, ECM, DCM, leveraged finance, and restructuring, which is precisely what enables strategic positioning in narrow niches.[^3] A bank ranked #20 globally by deal value but #3 in restructuring advisory offers a meaningfully different - and potentially superior - restructuring career experience than a #1-ranked bank with a small restructuring practice.
 
-When you encounter a league table claim - in a pitch, in recruiting materials, in an analyst report - ask these questions:
+Restructuring tables deserve particular mention as the category most susceptible to creative deal attribution. Advisory roles in distressed M&A and Chapter 11 restructuring are less standardized than in vanilla M&A, and deal attribution for complex cases is genuinely ambiguous. Houlihan Lokey, PJT, and Lazard all have legitimate claims to restructuring leadership depending on how the universe is defined. The footnote is doing more work in a restructuring league table than in a straightforward M&A table.
 
-1. **What is the data source?** Dealogic, Bloomberg, Refinitiv? Is the firm consistent about using one source, or do they switch?
-2. **What is the time period?** Full-year data is more meaningful than partial-year. Multi-year averages smooth out outlier performance.
-3. **What is the transaction universe?** Global M&A covers very different deals than US healthcare M&A above $1B. The narrower the category, the more the ranking should be scrutinized.
-4. **Announced or completed?** Completed deals are a cleaner signal of actual execution capability.
-5. **By deal value or deal count?** Both matter but for different reasons. A firm might rank better by deal count because they do more small deals; another might rank better by deal value because they focus on large transactions.
-6. **What is the bank's actual sector experience?** Look at specific deal history, not just the summary ranking. Which transactions did they advise on? Were those deals comparable in complexity to yours?
+## Senior Banker Mobility and the Franchise Question
 
-## League Tables in the Context of Recruiting
+One limitation that does not appear in any league table footnote: client relationships follow individual bankers, not institutions. When a top-ranked M&A banker moves from Goldman Sachs to Centerview Partners, they bring clients and deal flow with them. Multi-year league table comparisons do not account for talent flow, and year-over-year ranking changes are difficult to interpret without knowing which senior MDs joined or departed.[^1]
 
-For candidates evaluating firms, league tables are a starting point, not an endpoint. A bank ranked #1 in your target sector is doing more relevant deals - that's signal worth paying attention to. But the more important question is whether the specific group you'd join is active, well-staffed, and offering deal exposure rather than process work.
+A bank that lost three senior managing directors in the past year may still show strong current rankings from deals those MDs sourced before departing. The historical ranking reflects institutional franchise plus the historical team - which may no longer exist in the form that produced it. For candidates evaluating a specific group, this matters more than the aggregate ranking. The question is not "where does this bank rank in healthcare M&A" but "who are the senior bankers in this healthcare group, what deals have they specifically worked on, and how long have they been at this firm."
 
-Wall Street Oasis and Mergers & Inquisitions both maintain updated coverage of which banks are most active in major sectors. Cross-reference league table claims with the actual deal list - most firms publish tombstone pages listing completed transactions, which gives you a better feel for deal types and client quality than an aggregate ranking.
+This is one reason Wall Street Oasis community practitioners have consistently argued that league tables "don't always indicate franchise strength, particularly because they may not capture unannounced deals in progress" and that the tables influence "recruiting and perception more than they reflect actual advisory capability."[^6]
 
-For context on how the major bulge brackets compare across deal types, see [Goldman Sachs vs JPMorgan vs Morgan Stanley](/industry/goldman-vs-jpmorgan-vs-morgan-stanley/). For the comparison of firm tiers, see [Bulge Bracket vs Elite Boutique](/industry/bulge-bracket-vs-elite-boutique/).
+## What League Tables Actually Signal for Recruiting
 
-## A Quick Note on Pitchbook Literacy
+For candidates evaluating firms, league tables are a starting point, not an endpoint.
 
-If you end up in investment banking, you will spend meaningful time building league table slides for pitchbooks. This is a rite of passage that is annoying but instructive. Understanding the Dealogic or Bloomberg interface, understanding the methodology choices available, and understanding which cuts of the data support your firm's narrative - this is genuine analytical work, even if it doesn't feel that way at 1am.
+A bank ranked in the top tier of your target sector is doing more relevant deals - that is genuine signal worth paying attention to. Deal flow produces training opportunities, live transaction experience, and the kind of pattern recognition that makes analysts better. A group that is consistently active in a sector is better equipped to teach that sector's dynamics than one that works deals occasionally.
 
-The skill of reading a league table critically is also the skill of building a convincing one. Both are useful for the same reason: they force you to understand what the data actually measures versus what it appears to measure on the surface.
+But the aggregate ranking needs to be tested against specifics. Pull the actual deal list for the last two or three years. What types of transactions did the group work on? What was the deal complexity? Who were the clients? Are those transactions comparable to the work you want to do? A bank's tombstone page and press releases list completed transactions, and reviewing the last 20 deals in a target group tells you more about day-to-day work than any summary ranking.
 
-One WSO user put it bluntly in a thread on pitchbook preparation: "After six months of building these slides, I started reading every league table claim in news articles with extreme skepticism. Which is probably the most practically useful thing I learned in my analyst year."
+The more important distinction for a candidate is between global rank and sector-specific rank. A candidate interviewing for a healthcare M&A role at a bank ranked #15 globally but #3 in healthcare M&A is making a mistake by treating the global ranking as the relevant benchmark. Always use the most specific sector and regional table available - and note the footnote.[^2]
 
-That skepticism, applied proportionally, is the right posture. League tables are a real signal embedded in a methodology that rewards careful reading.
+Some firms also tie junior banker compensation partly to league table performance, which shapes deal pursuit decisions in ways that are worth understanding. A bank with strong internal incentives tied to league table position may pursue co-advisory roles on large deals purely for credit visibility rather than fee economics. That shapes deal team composition and the type of work junior bankers actually do.[^2]
 
-## What You Should Do Next
+## How to Read a League Table Claim Critically
 
-1. **Pull the Dealogic or Bloomberg league tables for your target sector.** Most business school libraries have Dealogic access. Look at the actual rankings for the last three years and see where your target firms appear - not just by their own claims.
+When you encounter a league table claim - in a pitch, in recruiting materials, in a news article - the following questions cut through the framing:
 
-2. **Look at specific deal tombstones.** Each firm's website and press releases list completed transactions. Review the last 20 deals a target group completed. Deal quality, client type, and transaction complexity tell you more than the aggregate ranking.
+**What is the data source?** Dealogic, Bloomberg, or Refinitiv? Is the firm consistent about using one source, or does the source shift depending on which shows the better number?
 
-3. **When you're in a pitch or interview and a league table claim is made, ask about methodology.** Not aggressively - but showing that you understand league tables involve data choices is a signal of sophistication that most candidates don't demonstrate.
+**What is the time period?** Full-year data is more meaningful than partial-year. Multi-year averages are more stable. LTM is more stable than YTD. A bank that closed a $50 billion deal last quarter looks dramatically different in a YTD table than in a three-year rolling table - same bank, same methodology, completely different ranking.
 
-4. **Compare announced vs. completed deal rates.** Some banks are better at winning mandates than closing them. Understanding this distinction matters if you're evaluating firms as a potential client - and understanding it demonstrates fluency if you're a candidate.
+**What is the transaction universe?** Global M&A covers a very different set of deals than US healthcare M&A above $1 billion. The narrower the category, the more the ranking should be interrogated.
 
-5. **Read the [M&A process walkthrough](/technical/ma-process-walkthrough-pitch-to-closing/) to understand where advisory banks add value.** League table ranking correlates with deal flow but not necessarily with advisory quality on any given transaction. The relationship between rankings and outcomes is real but imperfect.
+**Announced or completed?** Completed deals are a cleaner signal of actual execution capability. A bank that announces more deals than it closes looks better in announced-deal tables.
+
+**By deal value or deal count?** A firm may rank better by deal count because they do more small deals; another ranks better by deal value because they focus on large transactions. The two metrics proxy for different business models and different day-to-day analyst experiences.
+
+**What does the actual deal list look like?** An aggregate ranking is a summary of transactions. The transactions are more informative than the summary.
+
+## Building League Tables as an Analyst
+
+If you end up in investment banking, you will spend meaningful time building league table slides for pitch books. It is an instructive exercise precisely because it forces direct engagement with the data and its limitations.
+
+An analyst preparing a pitch for a biotech M&A mandate will run screens on Refinitiv, Dealogic, and Bloomberg with various filters - sector, size band, geography, time period - until finding the most favorable combination for their bank. They cite this in the pitch with a precise footnote. This is not deceptive by industry convention. It is standard practice that all parties understand.[^1]
+
+The skill of reading a league table critically is the same skill required to build a convincing one. Both require understanding what the data actually measures versus what it appears to measure, which methodology choices favor which firm types, and which footnote details change the interpretation. Analysts who internalize this in their first year develop a durable skepticism about aggregate rankings that extends well beyond league tables - into sell-side research, into credit ratings, into any context where a complicated reality has been summarized into a single number.
+
+## What to Do Next
+
+**Pull the actual league tables for your target sector.** Most university libraries provide Dealogic or Bloomberg access. Look at the last three years of rankings in your target sector and geography - not just what the bank claims, but what the raw data shows when you run the screen yourself.
+
+**Review specific deal tombstones.** Each firm's website and press releases list completed transactions. Reviewing the last 20 deals a target group completed - deal type, client type, transaction complexity, size band - gives you more information than any aggregate ranking.
+
+**In interviews, show methodology fluency.** When a league table claim comes up, demonstrating that you understand the underlying methodology - not aggressively, but accurately - signals the kind of data literacy that distinguishes prepared candidates. Most candidates do not do this.
+
+**Compare announced versus completed deal rates.** Some banks are better at winning mandates than closing them. Understanding the distinction matters if you are evaluating firms as a potential client, and demonstrating fluency with the distinction is useful if you are a candidate.
+
+For context on how the major bulge brackets compare across deal types, see [Goldman Sachs vs JPMorgan vs Morgan Stanley](/industry/goldman-vs-jpmorgan-vs-morgan-stanley/). For the comparison between firm tiers, see [Bulge Bracket vs Elite Boutique](/industry/bulge-bracket-vs-elite-boutique/). For a complete walk through the advisory process where these rankings ultimately play out, see the [M&A process walkthrough](/technical/ma-process-walkthrough-pitch-to-closing/).
+
+---
+
+[^1]: Mergers & Inquisitions, "Investment Banking League Tables: Neutral Arbiter of Bank Rankings or Marketing Manipulation?" https://mergersandinquisitions.com/investment-banking-league-tables/
+
+[^2]: IB Interview Questions, "Understanding Investment Banking League Tables," https://ibinterviewquestions.com/blog/understanding-investment-banking-league-tables
+
+[^3]: Corporate Finance Institute, "League Table - Know the World's Leading Investment Bankers," https://corporatefinanceinstitute.com/resources/career-map/sell-side/capital-markets/league-table/ (last updated November 2023)
+
+[^4]: Cornell University Johnson Library, "What Are League Tables and How Do I Find Them?" https://johnson.library.cornell.edu/faqs/what-are-league-tables-and-how-do-i-find-them/
+
+[^5]: Dealogic Investment Banking Scorecard, https://dealogic.com/investment-banking-scorecard/
+
+[^6]: Wall Street Oasis Community Discussions, "LTM US and Global M&A League Tables," https://www.wallstreetoasis.com/forum/investment-banking/ltm-us-and-global-ma-league-tables

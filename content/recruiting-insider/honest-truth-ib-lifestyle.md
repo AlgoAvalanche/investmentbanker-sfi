@@ -11,39 +11,44 @@ internal_links: ["/recruiting-insider/why-analysts-quit/", "/industry/compensati
 
 # The Honest Truth About IB Lifestyle: Hours, Pay, Burnout, Exit Opps
 
-Let's be direct about the investment banking lifestyle: it is not a balanced one, it will not become one, and anyone who told you otherwise during recruiting was either optimistic or had a quota to fill. That said, "brutal" and "worthless" are not the same thing. Understanding what you are actually signing up for - the real hours, the real pay, the real burnout dynamic, and the real exit landscape - is the only way to make a rational decision about whether to do it and for how long.
+Let's be direct: the investment banking lifestyle is not a balanced one, it will not become one, and anyone who told you otherwise during recruiting was either optimistic or had a quota to fill. That said, "brutal" and "worthless" are not the same thing. Understanding what you are actually signing up for - the real hours, the real pay, the documented burnout dynamic, and the actual exit landscape - is the only way to make a rational decision about whether to do this and for how long.
 
-This is that conversation.
+This is that conversation, built on data rather than anecdote.
 
 ---
 
 ## The Hours: What the Data Actually Shows
 
-The investment banking lifestyle conversation begins and ends with hours, and the numbers are not flattering. A 2021 survey of Goldman Sachs first-year analysts that circulated widely (originally reported by Business Insider) showed analysts averaging 95 hours per week, with some reporting over 100. Goldman issued a statement about "protected Saturdays." The hours did not meaningfully change.
+The investment banking lifestyle conversation begins and ends with hours, and the numbers are not flattering.
 
-The more systematic data comes from industry sources. Mergers & Inquisitions has conducted repeated surveys of analysts at bulge bracket, elite boutique, and middle-market banks. The consistent findings:
+The most cited data point in the industry is a 2021 internal Goldman Sachs survey that circulated publicly after analysts distributed it to journalists. The findings: analysts averaged 95 hours per week, went to bed at 3 AM on average, and slept approximately five hours per night.[^1] Goldman issued a statement about "protected Saturdays." The hours did not meaningfully change.
 
-- **Bulge bracket analysts:** 80-100 hours per week during active deal periods, 60-70 during slower stretches
-- **Elite boutique analysts (Evercore, Lazard, Centerview):** Often 90-100+ hours, particularly in M&A advisory
-- **Middle-market banks:** Typically 70-90 hours, with more variation depending on deal flow and group culture
-- **Regional boutiques:** 60-80 hours, with genuine outliers on both sides
+The Wall Street Oasis 2024 Investment Banking Working Conditions Survey - the fourth annual edition of the most systematic industry data collection effort - provides more granular current data. At JPMorgan, 50% of analysts reported working 90 or more hours per week, with 13% reporting 100 or more hours. At Goldman Sachs, 50% reported 90-plus hour weeks, and 25% reported exceeding 100 hours.[^2] These are not outliers. These are medians.
 
-The 80-hour week is not a figure of speech. It is an actual work week - Sunday through Saturday - that you will experience for stretches that last months, not days. Deal closings, pitch seasons, and live auction processes will push you to the 100-hour end. Slow weeks in August or between deals will feel like vacation at 60 hours.
+The firm-level breakdown matters for anyone making a recruiting decision:
 
-One point that is frequently misunderstood: the hours are not uniformly distributed throughout the day. Banking hours are not 8 AM to midnight in a steady rhythm. They are 9 AM to 7 PM, followed by dinner, followed by a flurry of requests from 9 PM to 2 AM. The fragmentation is often worse than the raw count.
+- **Bulge bracket banks (Goldman Sachs, JPMorgan, Bank of America):** 60-80 hours weekly standard, spiking to 90-100+ during live deal execution
+- **Elite boutiques (Evercore, Lazard, Centerview):** 80-90 hours as the baseline, with M&A advisory teams routinely exceeding 100 during deal sprints
+- **Regional boutiques (Raymond James, Piper Sandler):** 50-70 hours - the closest thing to livable in the industry
+
+The Mergers and Inquisitions analysis of the structural drivers of these hours produces a conclusion that is uncomfortable but important: long hours in banking function primarily as a cultural filter, not as a pure workflow necessity.[^3] A significant portion of analyst time is spent available rather than productive - waiting for comments from a VP, waiting for a client response, available in case a revision request comes in at 11 PM. This "waiting around" phenomenon inflates raw hour counts while simultaneously making the experience psychologically harder. Being present without being productive is more draining than focused work.
+
+JPMorgan announced a formal policy in 2024 capping junior banker hours at 80 per week, with "pencils down" from Friday 6 PM to Saturday noon and one full weekend off every three months.[^2] The caveat written into the policy - live deals exempt - is the caveat that renders the policy largely symbolic. When the deal is live, the cap does not apply. And deals are frequently live.
+
+One structural reality that the raw hour counts obscure: banking hours are not distributed evenly across the day. The pattern is not a steady eight to midnight grind. It is nine to seven, then dinner, then a second burst from nine PM to one or two AM as client feedback and revision requests arrive. The fragmentation is often worse than the total. Your evening is not your own until it suddenly is, and you cannot plan around that uncertainty.
 
 ---
 
 ## The Pay: A Precise Accounting
 
-Pay is the area where investment banking genuinely delivers on its recruiting promises, provided you understand the full picture.
+Pay is where investment banking genuinely delivers on its recruiting promises, provided you understand the full picture.
 
-As of the most recent compensation cycles (2024-2025 data, sourced from Wall Street Oasis compensation surveys and Mergers & Inquisitions annual reports):
+Current compensation at bulge bracket and elite boutique banks (2024-2025 data):
 
 **First-Year Analyst:**
-- Base salary: $110,000 (most large banks have converged here)
-- Year-end bonus: $70,000-$95,000 at bulge brackets, $80,000-$110,000+ at elite boutiques
-- Total compensation: $180,000-$210,000 all-in for a strong first year
+- Base salary: $110,000 (most large banks have converged at this number)
+- Year-end bonus: $70,000-$95,000 at bulge brackets; $80,000-$110,000 or more at elite boutiques
+- Total all-in: $180,000-$210,000 for a strong first year
 
 **Second-Year Analyst:**
 - Base: $115,000-$120,000
@@ -51,94 +56,126 @@ As of the most recent compensation cycles (2024-2025 data, sourced from Wall Str
 - Total: $205,000-$250,000
 
 **Third-Year Analyst (where the role exists):**
-- Total: $250,000-$300,000+
+- Total: $250,000-$300,000 or more
 
-These numbers sound excellent. They are excellent by any reasonable measure. The catch is the effective hourly rate. At 90 hours per week across 50 working weeks per year, a first-year all-in package of $190,000 works out to roughly $42 per hour. A senior associate at a law firm billing 2,200 hours per year at $180,000 base earns a better hourly rate. This is not a reason to avoid banking - it is a reason to understand that the compensation premium is partially offset by the hour count.
+These numbers are excellent by any reasonable standard. The catch is the effective hourly rate calculation, which changes the picture materially. An analyst earning $170,000 all-in while working 80 hours per week across 50 working weeks earns approximately $42 per hour.[^1] A senior associate at a law firm billing 2,200 hours annually at a $180,000 base earns a better hourly rate. This is not a reason to avoid banking - it is a reason to understand that the premium is partially offset by the hour count, and that the real value proposition is not the hourly rate.
+
+The real value proposition is credential compression. Two years of investment banking experience opens doors that most other two-year post-college paths cannot. That compression - the exit optionality it creates - is what justifies the economics, not the per-hour figure.
 
 For a detailed breakdown of how compensation evolves from analyst through MD, see the [full compensation analysis across banking levels](/industry/compensation-across-levels/).
 
 ---
 
-## Investment Banking Lifestyle and the Burnout Question
+## The Burnout Question: Documented, Structural, and Not Evenly Distributed
 
-The burnout conversation in banking is where honest commentary gets scarce. Banks have every incentive to downplay it. Analysts have every incentive to project resilience. The reality sits between the two.
+The burnout conversation in banking is where honest commentary gets scarce. Banks have every incentive to downplay it. Analysts have every incentive to project resilience. The data sits between the two.
 
-Burnout in banking is real, structurally embedded, and - critically - not distributed evenly. Some analysts burn out at month six. Others make it through two years and exit into PE feeling energized. The variance is explained by several factors that are partially controllable:
+The World Health Organization classifies occupational burnout through three dimensions: energy depletion, mental distancing from the job, and reduced professional effectiveness.[^4] Investment banking systematically triggers all three simultaneously - and does so through mechanisms that are structural rather than incidental. The demand load reliably exceeds available recovery resources. This is not a bug in the system. It is how the system operates.
 
-**Group culture matters enormously.** Two analysts at the same bulge bracket bank, starting the same year, can have radically different experiences based on which group they land in. A coverage group with a culture of constructive feedback and respectful communication will produce lower burnout rates than one where senior bankers yell at juniors at 11 PM. This is not a small difference.
+The medical consequences are documented beyond the psychological. WHO and ILO research found that working 55 or more hours per week raises stroke risk by 33% and coronary heart disease risk by 13% relative to standard schedules.[^4] At 80-95 hours per week, investment banking analysts exceed this threshold by a factor that no wellness app addresses.
 
-**Deal intensity is non-linear.** A group in the middle of a hot deal environment - healthcare M&A in 2021, tech in certain periods, energy through cycle peaks - will run its analysts harder than a group with light activity. You cannot fully predict this when you join.
+A Neurolaunch analysis of banking burnout patterns adds a neuroscience dimension that is routinely ignored in recruiting conversations: continuous work connectivity - checking email on weekends, monitoring markets during vacation - prevents the neurological recovery the brain requires to restore executive function.[^5] From a neuroscience perspective, a weekend where you check Slack intermittently provides no actual rest. The brain requires genuine psychological disengagement. Banking rarely permits that.
 
-**Individual risk tolerance for sleep deprivation.** Some people function reasonably well on five hours of sleep for extended periods. Others deteriorate. This is not a character judgment - it is physiology. Knowing your own threshold matters.
+The aggregate attitudinal data from the same source: 72% of bankers report having considered quitting to avoid burnout, 51% are aware that colleagues are actively planning an exit, and only 43% feel satisfied with the support systems their firms have implemented - while 96% want additional support.[^5]
 
-Mergers & Inquisitions has published data suggesting that roughly 20-30% of analysts leave banking before completing their standard two-year commitment. Wall Street Oasis threads on burnout are extensive and frequently cited by analysts who describe hitting a wall between months eight and fourteen - after the novelty is gone but before the exit opportunity pipeline matures.
+Burnout in banking is not evenly distributed, and the variance is partially controllable:
 
-One analyst perspective from a WSO thread from 2024 that resonated widely: "I hit month ten and I genuinely could not remember what I had done for fun before banking. Not in a traumatic way - I just couldn't access the memory of caring about anything outside of work. That's when I knew I needed to think about my timeline seriously."
+**Group culture is the dominant variable.** Two analysts at the same bulge bracket, starting the same year, can have radically different experiences based on group placement alone. A coverage group with a culture of clear feedback and respectful communication will produce meaningfully lower burnout rates than one where senior bankers escalate at midnight. This is not a small difference. It is the difference between a useful two years and a damaging one.
 
-This is not pathology. It is what happens when work consistently crowds out every other input. The question is whether the two-year investment - if you treat it as such - is worth what comes after.
+**Deal intensity is non-linear and partially unpredictable.** A group caught in a hot deal environment - healthcare M&A in 2021, energy through a cycle peak, tech during a SPAC wave - will push its analysts harder than a group with light activity. You cannot fully predict this when you accept an offer.
 
----
+**Individual sleep physiology is a real variable, not a character judgment.** Some people function reasonably well on five hours for extended periods. Others deteriorate quickly. Knowing your own threshold matters before you commit to an environment that will routinely test it.
 
-## Work-Life Balance: What That Phrase Actually Means Here
+The compensation paradox is worth naming directly: the Neurolaunch research characterizes it precisely. "Financial compensation alone cannot buffer burnout when demands structurally exceed available resources."[^5] Higher bonuses may accelerate burnout cycles rather than interrupt them, because they validate unsustainable work patterns. The analyst who earns a strong bonus at month twelve and tells himself the money justifies the pace is often the analyst who hits a wall at month fifteen.
 
-"Work-life balance" in banking is a phrase that should come with a glossary. When banks describe their "improved" work-life balance initiatives - protected weekends, mental health days, analyst wellness programs - they are describing improvements relative to a baseline that was genuinely unsustainable. The improved version is still not balanced in any ordinary sense.
-
-The useful reframe is to think about banking not as a lifestyle but as a two-year apprenticeship with a specific ROI. You are not living in banking. You are investing time in it. The return is technical skills, deal experience, network, and exit optionality that compounds into a career trajectory most paths cannot match.
-
-Under this framing, work-life balance is irrelevant for the duration of the program, the same way it is irrelevant for a surgical residency. What matters is whether you exit the program with your health, your relationships, and your cognitive function reasonably intact - and whether what you got out of it was worth what you put in.
-
-The analysts who navigate this best are the ones who are deliberate about the few hours outside of work they do control. Banking analysts who protect their gym time, maintain one non-work social commitment per week, and sleep more than four hours consistently perform better and last longer than those who abandon all structure outside of work.
+Replacement cost for a burned-out analyst who exits early: $150,000-$200,000 per person.[^5] Banks absorb this cost because the pipeline of incoming analysts remains deep enough to make the structural model viable. Individual analysts bear the actual health consequences.
 
 ---
 
-## The Cultural Layer: How Banking Culture Has and Has Not Changed
+## What "Work-Life Balance" Actually Means Here
 
-Banking culture has evolved over the past decade. The changes are real. The hazing-adjacent dynamics that characterized analyst years in the 1990s and early 2000s - where juniors were routinely humiliated as a point of culture - are less prevalent today, though not extinct. Banks have invested in training managers on respectful communication. HR functions have real teeth at most firms now in ways they did not previously.
+"Work-life balance" in banking is a phrase that requires a glossary. When banks describe their improved work-life initiatives - protected weekends, mental health days, analyst wellness programs - they are describing improvements relative to a baseline that was genuinely unsustainable. The improved version is still not balanced in any ordinary sense.
 
-What has not changed is the fundamental nature of the work: client-driven, deadline-driven, and unpredictable. No policy change eliminates the 10 PM urgent revision request when a client changes their mind before a board presentation. The work is what it is. The culture around how people treat each other while doing that work has improved.
+The useful reframe is to treat banking not as a lifestyle but as a two-year apprenticeship with a specific ROI. You are not living in banking. You are investing time in it. The return is technical skills, deal experience, network, and exit optionality that compounds into a career trajectory most paths cannot replicate.
 
-The diversity and inclusion improvements at most large banks are genuine at the entry level - the analyst class composition at most bulge brackets looks meaningfully different than it did fifteen years ago. The senior levels are still largely homogeneous. This gap is a real tension in the culture at most firms, and it affects the experience of analysts from underrepresented backgrounds in ways that the recruiting materials do not fully capture.
+Under this framing, work-life balance is largely irrelevant for the duration of the program - the same way it is irrelevant for a surgical residency. What matters is whether you exit with your health, your relationships, and your cognitive function reasonably intact, and whether what you extracted was worth what you put in.
 
----
-
-## Burnout Prevention: Practical, Not Inspirational
-
-Since this is the practical section, here is what actually helps rather than what sounds good in a wellness webinar:
-
-**Sleep is a performance variable, not a luxury.** Consistent seven-hour nights outperform consistent five-hour nights on cognitive tasks within two to three weeks, even if the five-hour version feels manageable in the short term. When you have the choice - and you sometimes will - sleep.
-
-**Front-load your weeks where possible.** If you have a deliverable due Thursday, do not wait until Tuesday to start. Banking schedules compress from the end. Build in earlier pressure to reduce late-week crunch.
-
-**Find the senior person in your group who treats juniors well and gravitate toward their deals.** This is a partially controllable variable. The analyst who gets staffed on three deals in a row with a VP who communicates respectfully and gives clear direction will fare better than one who gets the opposite. Pay attention to your staffing and advocate quietly when you have a choice.
-
-**Distinguish between structural exhaustion and situational exhaustion.** Deal-close exhaustion is acute and recoverable. The feeling after a 100-hour week on a deal that just closed is not the same as chronic depletion from six months of sustained overwork. Learning to tell the difference helps you calibrate when to push through and when to flag that you need breathing room.
+The analysts who navigate this best are the ones who are deliberate about the few hours outside work they do control. Protecting gym time, maintaining one non-work social commitment per week, and averaging more than five hours of sleep consistently will outperform the analyst who abandons all external structure. This is not inspirational advice. It is performance optimization.
 
 ---
 
-## Exit Opportunities: Why You Are Really Here
+## Policy Reform and Why It Has Limits
 
-The investment banking lifestyle is ultimately tolerable because of what it enables afterward. For a full analysis of the post-banking landscape, see the [exit opportunities reality check](/recruiting-insider/exit-opps-reality-check/). The short version:
+The reforms are real. Protected Saturday policies, hour caps, mental health resources, and improved manager training exist at most large banks and represent genuine changes from a decade ago. The problem is structural.
 
-**Private equity** remains the primary exit for M&A and LBO-heavy banking analysts. The megafund (KKR, Blackstone, Apollo, Carlyle) recruiting process is brutal and starts absurdly early - often before analysts have been on the desk for twelve months - but the compensation and career trajectory are exceptional.
+The fundamental economics of investment banking - large deal fees ($5 million and above), small deal teams, client-first culture, and transactions that span months without natural break points - create relentless pressure that no weekend policy fully neutralizes.[^3] The live deal exemption written into JPMorgan's 2024 hour cap is not an oversight. It is an acknowledgment that the economics of the business cannot accommodate the policy when it matters most.
 
-**Hedge funds** recruit more selectively and require demonstrated technical depth plus genuine investment thesis generation. The lifestyle improvement relative to banking is real but often overstated.
-
-**Corporate development** at large companies offers the biggest lifestyle improvement and the most direct application of banking skills in a strategic context. Compensation is lower than PE but the quality of life difference is significant.
-
-**Startups and tech** attract analysts who want to use the financial skills in a faster-moving, equity-upside environment. The adjustment to startup culture after banking is larger than most people expect.
-
-The consistent finding across all exit paths: two years in banking with strong deal experience and a solid modeling foundation opens doors that most other two-year post-college paths do not.
+The Mergers and Inquisitions analysis places meaningful structural change on a 2050-2060 timeline, contingent on banking losing its competitive desirability relative to other career paths.[^3] Until that shift occurs - if it occurs - the cultural incentive to use long hours as a filter and a loyalty signal remains intact.
 
 ---
 
-## What You Should Do Next
+## Will AI Fix the Hours?
 
-1. **Honestly assess your hour tolerance before you commit.** Talk to second-year analysts at the specific banks and groups you are targeting, not to recruiters. Ask them directly: what is the worst week you have had in the last three months? The answer will be more useful than anything in an offer package.
+This question comes up constantly in 2025 and 2026, and the historical precedent provides a clear answer: no, not in any timeframe relevant to your recruiting decision.
 
-2. **Research group culture aggressively.** Not bank culture - group culture. The difference between a respectful group and a toxic one within the same bank can be the difference between a useful two years and a damaging one. Use your network to get honest perspectives on specific groups.
+Bloomberg Terminal launched in 1981. Excel in 1985. Capital IQ in 1998. Each of these tools was described as a productivity revolution that would reduce analyst workload. None of them shortened analyst weeks. Each expanded the volume and complexity of work that could be produced, raising client expectations and deal output proportionally.[^3]
 
-3. **Build your exit strategy before you start.** Know whether you want PE, hedge fund, corp dev, or something else. This determines which deals to pursue, which models to build, and which relationships to invest in. Analysts who leave this to year two scramble unnecessarily.
+By 2025, more than 80% of leading investment banks had adopted AI-driven workflow tools to automate repetitive tasks that historically drove long hours.[^1] The hours have not proportionally declined. AI tools increase the review burden - more output means more to check, more to revise, more to present. Technology in banking has consistently raised the ceiling on output rather than lowering the floor on hours.
 
-4. **Review the full compensation picture across levels** to understand what the trajectory looks like if you stay beyond two years - whether the Associate and VP economics justify the continued lifestyle trade-off for your specific goals.
+---
 
-5. **Read the [reasons analysts quit](/recruiting-insider/why-analysts-quit/) before signing.** Not because it should deter you, but because understanding the attrition patterns helps you identify which risk factors apply to you and address them proactively.
+## The Two-Year Design: Feature, Not Bug
+
+Most analysts depart investment banking within two to three years - not primarily for better-paying roles, but for structural relief from the demand load.[^5] Understanding why this is the designed outcome rather than a dysfunction changes how you should approach the program.
+
+The two-year analyst program was structured partly to manage attrition. The majority of analysts exit to private equity, hedge funds, corporate development, or MBA programs. This is a feature of the model. Banks benefit from a constant supply of motivated juniors doing intensive work at below-PE compensation. Analysts benefit from a credential that opens doors no other two-year path matches. The transaction works for both parties when the analyst enters with clear intent and exits on schedule.
+
+The question is whether you use those two years or are used by them.
+
+---
+
+## Exit Opportunities: Why the Math Works
+
+The investment banking lifestyle is ultimately sustainable for two years because of what it enables afterward. For a full analysis of the post-banking landscape, see the [exit opportunities reality check](/recruiting-insider/exit-opps-reality-check/).
+
+The short version:
+
+**Private equity** remains the primary exit for M&A and leveraged finance analysts. Megafund recruiting - KKR, Blackstone, Apollo, Carlyle - is brutal and starts within the first twelve months on the desk, but the compensation and career trajectory are exceptional for those who clear it.
+
+**Hedge funds** recruit more selectively and require demonstrated technical depth plus genuine investment thesis generation. The lifestyle improvement relative to banking is real but often overstated at the junior level, particularly at multi-manager platforms.
+
+**Corporate development** at large companies offers the most direct application of banking skills in a strategic context with a genuine quality-of-life improvement. Total compensation is lower than PE, but the tradeoff is real and worth taking seriously if the banking lifestyle has extracted more than you expected.
+
+**Startups and growth-stage companies** attract analysts who want to deploy financial skills in a faster-moving, equity-upside environment. The culture adjustment from banking to startup is larger than most people anticipate.
+
+The consistent finding across all exit paths: two years in banking with strong deal experience and a solid modeling foundation compresses a decade of career development into twenty-four months. That compression is what you are paying for with your hours.
+
+---
+
+## What to Do Before You Sign
+
+**Assess your hour tolerance honestly before you commit.** The number that matters is not the average - it is the worst case. Talk to second-year analysts at the specific banks and groups you are targeting, not to recruiters. Ask them directly: what was your worst week in the last three months? The answer will be more useful than anything in an offer letter.
+
+**Research group culture, not just bank culture.** The difference between a respectful MD and a corrosive one can be the difference between a useful two years and a health event. Use your network to get direct intelligence on specific groups, not just the brand.
+
+**Build your exit strategy before day one.** Know whether you are targeting PE, hedge fund, corp dev, or something else. This determines which deals to pursue, which models to invest in building, and which relationships to prioritize. Analysts who leave this to year two scramble unnecessarily and end up with weaker positioning than analysts who arrived with a plan.
+
+**Read the [reasons analysts quit](/recruiting-insider/why-analysts-quit/) before signing.** Not because it should deter you, but because understanding the attrition patterns helps you identify which risk factors apply to your specific profile and address them proactively.
+
+The investment banking lifestyle is not for everyone. It is also not randomly distributed misery. The analysts who approach it as a structured two-year investment - with a clear exit target, deliberate management of the controllable variables, and an honest accounting of what the credential is worth - are the ones who exit having gotten what they came for.
+
+Know what you are signing up for. Then decide.
+
+---
+
+[^1]: Career Principles, "Investment Banking Hours: The 100-Hour Work Week," careerprinciples.com/resources/investment-banking-hours. Cites Goldman Sachs 2021 internal survey data: 98-hour average weeks, 3 AM average bedtime, 5 hours average sleep.
+
+[^2]: Wall Street Oasis, "WSO 2024 Investment Banking Work Conditions Survey Results - 4th Annual," wallstreetoasis.com. JPMorgan 50% of analysts at 90+ hours/week, 13% at 100+; Goldman Sachs 50% at 90+ hours/week, 25% at 100+. JPMorgan 2024 80-hour cap policy details sourced from same.
+
+[^3]: Mergers and Inquisitions, "Investment Banking Hours," mergersandinquisitions.com/investment-banking-hours. Analysis of structural drivers (culture as filter, waiting-around phenomenon, client-driven unpredictability) and reform limits. Timeline for structural change: 2050-2060.
+
+[^4]: Investment Banking Council of America, "The Truth Behind 100-Hour Work Weeks in Investment Banking," investmentbankingcouncil.org. WHO/ILO data: 55+ hours/week raises stroke risk 33%, coronary heart disease risk 13%. WHO burnout definition: energy depletion, mental distancing, reduced effectiveness.
+
+[^5]: Neurolaunch, "Investment Banking Burnout: Strategies to Recognize, Address, and Prevent Career Fatigue," neurolaunch.com/investment-banking-burnout. Data: 72% of bankers considered quitting; 51% aware colleagues are planning exit; 43% satisfied with support systems; 96% want additional support. Replacement cost per analyst: $150,000-$200,000. Compensation paradox framing. Neuroscience of recovery and connectivity.
+
+[^6]: Wall Street Oasis, "Investment Banking Hours," wallstreetoasis.com/resources/careers/jobs/investment-banking-hours. Firm-level hour breakdown: bulge brackets 60-80 hours, elite boutiques 80-90 hours, regional boutiques 50-70 hours. Goldman Sachs "Saturday Rule" enforcement variance.
