@@ -1,0 +1,67 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const categoryNames: Record<string, string> = {
+  'technical': 'Technical',
+  'interview-prep': 'Interview Prep',
+  'job-search': 'Job Search',
+  'industry': 'Industry',
+  'recruiting-insider': 'Recruiting Insider',
+};
+
+const categoryDescs: Record<string, string> = {
+  'technical': 'Deep dives into DCF, LBO, M&A modeling, valuation methodologies, and the quantitative frameworks that drive deal-making.',
+  'interview-prep': 'Technical questions, behavioral frameworks, and strategies that actually land offers at bulge brackets and elite boutiques.',
+  'job-search': 'Resume optimization, networking strategies, recruiting timelines, and paths into banking from every starting point.',
+  'industry': 'Bank culture, compensation structures, group comparisons, league tables, and how the industry actually works.',
+  'recruiting-insider': 'What happens after you start: analyst survival guide, office politics, exit opportunities, and the long-term track.',
+};
+
+export function getStaticPaths() {
+  return [
+    { params: { category: 'technical' } },
+    { params: { category: 'interview-prep' } },
+    { params: { category: 'job-search' } },
+    { params: { category: 'industry' } },
+    { params: { category: 'recruiting-insider' } },
+  ];
+}
+
+const { category } = Astro.params;
+const catName = categoryNames[category!] || category!;
+const catDesc = categoryDescs[category!] || '';
+
+const allArticles = await getCollection('articles');
+const articles = allArticles
+  .filter(a => a.data.category === category)
+  .sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime());
+---
+
+<BaseLayout title={`${catName} - Investment Banking`} description={catDesc} breadcrumbs={[{ name: 'Home', url: '/' }, { name: catName, url: `/${category}/` }]}>
+  <nav class="text-sm text-gray-500 mb-6">
+    <a href="/" class="hover:text-gray-700">Home</a>
+    <span class="mx-1">/</span>
+    <span class="text-gray-700">{catName}</span>
+  </nav>
+
+  <h1 class="text-3xl font-bold mb-3">{catName}</h1>
+  <p class="text-lg text-gray-600 mb-8 max-w-2xl">{catDesc}</p>
+
+  {articles.length > 0 ? (
+    <div class="grid md:grid-cols-2 gap-6">
+      {articles.map(article => (
+        <a href={`/${category}/${article.id.split('/').pop()?.replace('.md', '') || article.id}/`} class="bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md transition-shadow group">
+          <h2 class="font-bold text-gray-900 group-hover:text-blue-700 transition-colors mb-2">{article.data.title}</h2>
+          <p class="text-sm text-gray-500 mb-3 line-clamp-2">{article.data.description}</p>
+          <div class="flex items-center gap-3 text-xs text-gray-400">
+            <time>{new Date(article.data.date).toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' })}</time>
+            <span>By {article.data.author}</span>
+          </div>
+        </a>
+      ))}
+    </div>
+  ) : (
+    <p class="text-gray-500">Articles coming soon.</p>
+  )}
+</BaseLayout>

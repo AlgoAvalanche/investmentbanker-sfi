@@ -1,0 +1,57 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const allArticles = await getCollection('articles');
+const sorted = allArticles.sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime());
+const recent = sorted.slice(0, 12);
+
+const categories = [
+  { name: 'Technical', slug: 'technical', desc: 'DCF, LBO, M&A modeling, and valuation frameworks used on the desk.' },
+  { name: 'Interview Prep', slug: 'interview-prep', desc: 'Questions, frameworks, and strategies that land offers at top banks.' },
+  { name: 'Job Search', slug: 'job-search', desc: 'Resumes, networking, recruiting timelines, and non-target strategies.' },
+  { name: 'Industry', slug: 'industry', desc: 'Bank culture, compensation, group comparisons, and market structure.' },
+  { name: 'Recruiting Insider', slug: 'recruiting-insider', desc: 'What happens after you start: analyst life, politics, and exit opps.' },
+];
+---
+
+<BaseLayout title="Investment Banking Career Guide" description="Expert insights on investment banking careers, technical skills, interview preparation, and industry knowledge from a former Managing Director.">
+  <section class="text-center py-12 md:py-20">
+    <h1 class="text-4xl md:text-5xl font-bold text-gray-900 mb-4">The Investment Banking Resource</h1>
+    <p class="text-xl text-gray-600 max-w-2xl mx-auto mb-8">Authoritative, no-BS guidance on breaking in, surviving, and thriving in investment banking. Written by practitioners, not career coaches.</p>
+    <a href="/about/" class="bg-blue-700 text-white px-6 py-3 rounded-lg font-medium hover:bg-blue-800 transition-colors inline-block">About the Author</a>
+  </section>
+
+  <section class="mb-16">
+    <h2 class="text-2xl font-bold mb-6">Explore by Category</h2>
+    <div class="grid md:grid-cols-3 lg:grid-cols-5 gap-4">
+      {categories.map(c => (
+        <a href={`/${c.slug}/`} class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow group">
+          <h3 class="font-bold text-gray-900 group-hover:text-blue-700 transition-colors mb-1">{c.name}</h3>
+          <p class="text-xs text-gray-500">{c.desc}</p>
+        </a>
+      ))}
+    </div>
+  </section>
+
+  {recent.length > 0 && (
+    <section class="mb-16">
+      <h2 class="text-2xl font-bold mb-6">Recent Articles</h2>
+      <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+        {recent.map(article => (
+          <a href={`/${article.data.category}/${article.id.split('/').pop()?.replace('.md', '') || article.id}/`} class="bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md transition-shadow group">
+            <span class="text-xs font-medium text-blue-700 mb-2 block">{article.data.category.replace(/-/g, ' ').replace(/\b\w/g, (l: string) => l.toUpperCase())}</span>
+            <h3 class="font-bold text-gray-900 group-hover:text-blue-700 transition-colors mb-2 line-clamp-2">{article.data.title}</h3>
+            <p class="text-sm text-gray-500 line-clamp-2">{article.data.description}</p>
+          </a>
+        ))}
+      </div>
+    </section>
+  )}
+
+  <section class="bg-white border border-gray-200 rounded-lg p-8 text-center">
+    <h2 class="text-2xl font-bold mb-3">About the Author</h2>
+    <p class="text-gray-600 max-w-xl mx-auto mb-4">Sanjay Gupta is a former Managing Director in investment banking with over 20 years of experience across M&A, capital markets, and restructuring. He founded Swiss Finance Institute to share practical, authoritative knowledge with the next generation of bankers.</p>
+    <a href="/about/" class="text-blue-700 font-medium hover:underline">Read full bio &rarr;</a>
+  </section>
+</BaseLayout>
